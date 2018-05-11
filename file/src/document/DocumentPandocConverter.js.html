@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../../../">
+  <title data-ice="title">src/document/DocumentPandocConverter.js | stencila-convert</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="Converters for Stencila components"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="stencila-convert"><meta property="twitter:description" content="Converters for Stencila components"></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+<a style="position:relative; top:3px;" href="https://github.com/stencila/convert"><img width="20px" src="./image/github.png"></a></header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#document">document</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentConverter.js~DocumentConverter.html">DocumentConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentDocxConverter.js~DocumentDocxConverter.html">DocumentDocxConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentHtmlConverter.js~DocumentHtmlConverter.html">DocumentHtmlConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentJupyterConverter.js~DocumentJupyterConverter.html">DocumentJupyterConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentLatexConverter.js~DocumentLatexConverter.html">DocumentLatexConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentMdConverter.js~DocumentMdConverter.html">DocumentMdConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentOdtConverter.js~DocumentOdtConverter.html">DocumentOdtConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentPandocConverter.js~DocumentPandocConverter.html">DocumentPandocConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentPdfConverter.js~DocumentPdfConverter.html">DocumentPdfConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentRmdConverter.js~DocumentRmdConverter.html">DocumentRmdConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentXmdConverter.js~DocumentXmdConverter.html">DocumentXmdConverter</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#helpers">helpers</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-pandoc">pandoc</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#project">project</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/project/ProjectConverter.js~ProjectConverter.html">ProjectConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/project/ProjectFolderConverter.js~ProjectFolderConverter.html">ProjectFolderConverter</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#sheet">sheet</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetConverter.js~SheetConverter.html">SheetConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetDSVConverter.js~SheetDSVConverter.html">SheetDSVConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetODSConverter.js~SheetODSConverter.html">SheetODSConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetScriptConverter.js~SheetScriptConverter.html">SheetScriptConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetTDPConverter.js~SheetTDPConverter.html">SheetTDPConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetXLSXConverter.js~SheetXLSXConverter.html">SheetXLSXConverter</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><h1 data-ice="title">src/document/DocumentPandocConverter.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">const cheerio = require(&apos;cheerio&apos;)
+const fs = require(&apos;fs&apos;)
+const memfs = require(&apos;memfs&apos;)
+const mkdirp = require(&apos;mkdirp&apos;)
+const path = require(&apos;path&apos;)
+
+const DocumentConverter = require(&apos;./DocumentConverter&apos;)
+const pandoc = require(&apos;../helpers/pandoc&apos;)
+
+const JATS_EXTS = /(\.jats)|(\.jats\.xml)$/
+const JATS_TEMPLATE = path.join(__dirname, &apos;DocumentJatsTemplate.xml&apos;)
+
+class DocumentPandocConverter extends DocumentConverter {
+  extensions () {
+    return [this.pandocFormat()]
+  }
+
+  canImport (pathFrom) {
+    if (this.pandocImportFormat() === &apos;jats&apos;) return Promise.resolve(pathFrom.match(JATS_EXTS) !== null)
+    else return this.matchExtensions(pathFrom, this.extensions())
+  }
+
+  canExport (pathTo) {
+    if (this.pandocExportFormat() === &apos;jats&apos;) return Promise.resolve(pathTo.match(JATS_EXTS) !== null)
+    else return this.matchExtensions(pathTo, this.extensions())
+  }
+
+  pandocFormat () {
+    return &apos;jats&apos;
+  }
+
+  pandocImportFormat () {
+    return this.pandocFormat()
+  }
+
+  pandocImportArgs (options = {}) {
+    if (options.complete !== false) options.complete = true
+
+    let args = [
+      &apos;--from&apos;, this.pandocImportFormat(),
+      &apos;--to=jats&apos;,
+      &apos;--wrap&apos;, &apos;none&apos; // Don&apos;t wrap text (shouldn&apos;t anyway for JATS, but older versions of Pandoc did)
+    ]
+    if (options.complete) {
+      args = args.concat([
+        &apos;--standalone&apos;,
+        &apos;--template&apos;, JATS_TEMPLATE
+      ])
+    }
+    return args
+  }
+
+  pandocExportFormat () {
+    return this.pandocFormat()
+  }
+
+  pandocExportTemplate () {
+    return &apos;&apos;
+  }
+
+  pandocExportArgs (options = {}) {
+    if (options.complete !== false) options.complete = true
+
+    let args = [
+      &apos;--from&apos;, &apos;jats&apos;,
+      &apos;--to&apos;, this.pandocExportFormat(),
+      // Writer options (for writing the exported content)
+      &apos;--eol&apos;, options.eol || &apos;native&apos; // Line endings : --eol=crlf|lf|native
+    ]
+    if (options.complete) {
+      args = args.concat([
+        &apos;--standalone&apos;,
+        &apos;--template&apos;, this.pandocExportTemplate()
+      ])
+    }
+    return args
+  }
+
+  import (pathFrom, pathTo, volumeFrom, volumeTo, options = {}) {
+    pathTo = pathTo || (pathFrom + &apos;.jats.xml&apos;)
+    volumeFrom = volumeFrom || fs
+    volumeTo = volumeTo || volumeFrom
+    if (options.complete !== false) options.complete = true
+
+    const volumeTemp = new memfs.Volume()
+    return this._convert(pathFrom, &apos;/temp.jats&apos;, volumeFrom, volumeTemp, this.pandocImportArgs(options)).then(() =&gt; {
+      return this.readXml(&apos;/temp.jats&apos;, volumeTemp)
+    }).then((dom) =&gt; {
+      // Convert `&lt;code&gt;` elements with `executable=&quot;yes&quot;` to cells e.g.
+      //   &lt;code language=&quot;python&quot; executable=&quot;yes&quot;&gt;...&lt;/code&gt;
+      // To JATS4M cells
+      //   &lt;code specific-use=&quot;cell&quot;&gt;&lt;named-content&gt;&lt;alternatives&gt;
+      //     &lt;code specific-use=&quot;source&quot; language=&quot;python&quot; executable=&quot;yes&quot;&gt;...&lt;/code&gt;
+      //     &lt;code specific-use=&quot;output&quot; language=&quot;json&quot;&gt;&lt;/code&gt;
+      //   &lt;/alternatives&gt;&lt;/named-content&gt;&lt;/code&gt;
+      dom(&apos;code[language][executable=yes]&apos;).each((index, elem) =&gt; {
+        let code = cheerio(elem)
+        // Pandoc does some transformation of language codes (e.g. `py` -&gt; `python`, `r` -&gt; `r script`)
+        // So normalise to the codes that Stencila uses
+        let language = code.attr(&apos;language&apos;)
+        language = {
+          &apos;r script&apos;: &apos;r&apos;,
+          &apos;python&apos;: &apos;py&apos;
+        }[language] || language
+        // Check for Jupyter code type
+        let codeType = code.attr(&apos;code-type&apos;)
+        if (codeType) {
+          if (codeType === &apos;jupyter&apos;) language += &apos;jp&apos;
+        }
+
+        let cell = `&lt;alternatives&gt;
+          &lt;code specific-use=&quot;source&quot; language=&quot;${language}&quot; executable=&quot;yes&quot;&gt;${code.text()}&lt;/code&gt;
+          &lt;code specific-use=&quot;output&quot; language=&quot;json&quot;&gt;{}&lt;/code&gt;
+        &lt;/alternatives&gt;`
+        let parent = code.parent()
+        if (parent.is(&apos;fig&apos;)) {
+          parent.attr(&apos;fig-type&apos;, &apos;repro-fig&apos;)
+        } else {
+          cell = `&lt;code specific-use=&quot;cell&quot;&gt;&lt;named-content&gt;${cell}&lt;/code&gt;`
+        }
+        code.replaceWith(cell)
+      })
+
+      // Fix reference list produced by Pandoc citeproc which can contain
+      // text. Eventually it may be better use a custom CSL file.
+      // e.g. https://github.com/jgm/pandoc/blob/cf7d66c097ea8b93b5ece86aaa336994b0b281e9/data/jats.csl
+      dom(&apos;ref-list ref&apos;).each((index, elem) =&gt; {
+        let ref = cheerio(elem)
+
+        // Ignore any text in person-group elements by only
+        // extracting what is needed
+        let personGroup = ref.find(&apos;person-group&apos;)
+        let personGroupNew = cheerio(&apos;&lt;person-group person-group-type=&quot;author&quot;/&gt;&apos;)
+        let names = personGroup.find(&apos;name&apos;)
+        names.each((index, elem) =&gt; {
+          let name = cheerio(elem)
+          let nameNew = cheerio(&apos;&lt;name/&gt;&apos;)
+          nameNew.append(name.find(&apos;surname&apos;))
+          nameNew.append(name.find(&apos;given-names&apos;))
+          personGroupNew.append(nameNew)
+        })
+        personGroup.replaceWith(personGroupNew)
+
+        // Unwrap &lt;year&gt; etc from &lt;date&gt;
+        let date = ref.find(&apos;date&apos;)
+        date.replaceWith(date.html())
+      })
+
+      return this.writeXml(pathTo, dom, volumeTo, {
+        declaration: options.complete,
+        tagsUnformatted: [&apos;bold&apos;, &apos;italic&apos;, &apos;ext-link&apos;],
+        tagsContentUnformatted: [&apos;p&apos;, &apos;preformat&apos;, &apos;code&apos;]
+      }).then(() =&gt; {
+        return {
+          pathFrom, pathTo, formatTo: &apos;article&apos;
+        }
+      })
+    })
+  }
+
+  export (pathFrom, pathTo, volumeFrom, volumeTo, options = {}) {
+    pathTo = pathTo || (pathFrom + &apos;.&apos; + this.extensions()[0])
+    volumeFrom = volumeFrom || fs
+    volumeTo = volumeTo || volumeFrom
+
+    return this.readXml(pathFrom, volumeFrom).then(dom =&gt; {
+      // Covert JATS4M code cells e.g.
+      //   &lt;code specific-use=&quot;cell&quot;&gt;&lt;named-content&gt;&lt;alternatives&gt;
+      //     &lt;code specific-use=&quot;source&quot; language=&quot;python&quot; executable=&quot;yes&quot;&gt;...&lt;/code&gt;
+      //     &lt;code specific-use=&quot;output&quot; language=&quot;json&quot;&gt;&lt;/code&gt;
+      //   &lt;/alternatives&gt;&lt;/named-content&gt;&lt;/code&gt;
+      // to JATS executable code blocks
+      //   &lt;code language=&quot;python&quot; executable=&quot;yes&quot;&gt;...&lt;/code&gt;
+      dom(&apos;code[specific-use=&quot;cell&quot;]&apos;).each((index, elem) =&gt; {
+        let cell = cheerio(elem)
+        let source = cell.find(&apos;code[specific-use=&quot;source&quot;]&apos;)
+        cell.replaceWith(source)
+      })
+
+      const volumeTemp = new memfs.Volume()
+      return this.writeXml(&apos;/temp.jats&apos;, dom, volumeTemp, {pretty: false}).then(() =&gt; {
+        return this._convert(&apos;/temp.jats&apos;, pathTo, volumeTemp, volumeTo, this.pandocExportArgs(options))
+      })
+    })
+  }
+
+  _convert (pathFrom, pathTo, volumeFrom, volumeTo, args) {
+    // If volumeTo is the local filesystem then get pandoc to output
+    // to there directly, otherwise write to the (virtual) filesystem
+    let output = true
+    if (volumeTo === fs) {
+      mkdirp(path.dirname(pathTo))
+      args = args.concat([&apos;--output&apos;, pathTo])
+      output = false
+    }
+    // If volumeFrom is the local filesystem then get pandoc to read
+    // from there directly, otherwise read from the (virtual) filesystem
+    let input
+    if (volumeFrom === fs) {
+      args = args.concat([pathFrom])
+      input = Promise.resolve(&apos;&apos;)
+    } else {
+      input = this.readFile(pathFrom, volumeFrom)
+    }
+
+    // Read, spawn, write...
+    return input.then((content) =&gt; {
+      return pandoc.spawn(content, args)
+    }).then(result =&gt; {
+      if (!output) return pathTo
+      else {
+        return this.writeFile(pathTo, result, volumeTo).then(() =&gt; {
+          return pathTo
+        })
+      }
+    })
+  }
+}
+
+module.exports = DocumentPandocConverter
+</code></pre>
+
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.0.4)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

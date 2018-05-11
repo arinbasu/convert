@@ -1,0 +1,203 @@
+{
+  "coverage": "14.45%",
+  "expectCount": 83,
+  "actualCount": 12,
+  "files": {
+    "src/document/DocumentConverter.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        4
+      ]
+    },
+    "src/document/DocumentDocxConverter.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        4,
+        8
+      ]
+    },
+    "src/document/DocumentHtmlConverter.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        4
+      ]
+    },
+    "src/document/DocumentJupyterConverter.js": {
+      "expectCount": 3,
+      "actualCount": 1,
+      "undocumentLines": [
+        20,
+        24
+      ]
+    },
+    "src/document/DocumentLatexConverter.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        4,
+        8
+      ]
+    },
+    "src/document/DocumentMdConverter.js": {
+      "expectCount": 9,
+      "actualCount": 0,
+      "undocumentLines": [
+        9,
+        10,
+        14,
+        18,
+        24,
+        28,
+        32,
+        39,
+        75
+      ]
+    },
+    "src/document/DocumentOdtConverter.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        4,
+        8
+      ]
+    },
+    "src/document/DocumentPandocConverter.js": {
+      "expectCount": 15,
+      "actualCount": 0,
+      "undocumentLines": [
+        10,
+        11,
+        13,
+        14,
+        18,
+        23,
+        28,
+        32,
+        36,
+        53,
+        57,
+        61,
+        79,
+        161,
+        187
+      ]
+    },
+    "src/document/DocumentPdfConverter.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        4,
+        9,
+        13
+      ]
+    },
+    "src/document/DocumentRmdConverter.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        4
+      ]
+    },
+    "src/document/DocumentXmdConverter.js": {
+      "expectCount": 5,
+      "actualCount": 3,
+      "undocumentLines": [
+        36,
+        91
+      ]
+    },
+    "src/helpers/pandoc.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        31,
+        33,
+        72,
+        9
+      ]
+    },
+    "src/index.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        5,
+        11,
+        25,
+        39
+      ]
+    },
+    "src/project/ProjectConverter.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        7,
+        17
+      ]
+    },
+    "src/project/ProjectFolderConverter.js": {
+      "expectCount": 3,
+      "actualCount": 1,
+      "undocumentLines": [
+        12,
+        21
+      ]
+    },
+    "src/sheet/SheetConverter.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        7,
+        23,
+        92
+      ]
+    },
+    "src/sheet/SheetDSVConverter.js": {
+      "expectCount": 3,
+      "actualCount": 1,
+      "undocumentLines": [
+        14,
+        18
+      ]
+    },
+    "src/sheet/SheetODSConverter.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        8
+      ]
+    },
+    "src/sheet/SheetScriptConverter.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        7,
+        18
+      ]
+    },
+    "src/sheet/SheetTDPConverter.js": {
+      "expectCount": 4,
+      "actualCount": 4,
+      "undocumentLines": []
+    },
+    "src/sheet/SheetXLSXConverter.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        8
+      ]
+    }
+  }
+}

@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../../../">
+  <title data-ice="title">src/sheet/SheetConverter.js | stencila-convert</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="Converters for Stencila components"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="stencila-convert"><meta property="twitter:description" content="Converters for Stencila components"></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+<a style="position:relative; top:3px;" href="https://github.com/stencila/convert"><img width="20px" src="./image/github.png"></a></header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#document">document</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentConverter.js~DocumentConverter.html">DocumentConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentDocxConverter.js~DocumentDocxConverter.html">DocumentDocxConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentHtmlConverter.js~DocumentHtmlConverter.html">DocumentHtmlConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentJupyterConverter.js~DocumentJupyterConverter.html">DocumentJupyterConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentLatexConverter.js~DocumentLatexConverter.html">DocumentLatexConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentMdConverter.js~DocumentMdConverter.html">DocumentMdConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentOdtConverter.js~DocumentOdtConverter.html">DocumentOdtConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentPandocConverter.js~DocumentPandocConverter.html">DocumentPandocConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentPdfConverter.js~DocumentPdfConverter.html">DocumentPdfConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentRmdConverter.js~DocumentRmdConverter.html">DocumentRmdConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentXmdConverter.js~DocumentXmdConverter.html">DocumentXmdConverter</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#helpers">helpers</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-pandoc">pandoc</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#project">project</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/project/ProjectConverter.js~ProjectConverter.html">ProjectConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/project/ProjectFolderConverter.js~ProjectFolderConverter.html">ProjectFolderConverter</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#sheet">sheet</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetConverter.js~SheetConverter.html">SheetConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetDSVConverter.js~SheetDSVConverter.html">SheetDSVConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetODSConverter.js~SheetODSConverter.html">SheetODSConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetScriptConverter.js~SheetScriptConverter.html">SheetScriptConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetTDPConverter.js~SheetTDPConverter.html">SheetTDPConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetXLSXConverter.js~SheetXLSXConverter.html">SheetXLSXConverter</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><h1 data-ice="title">src/sheet/SheetConverter.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">const fs = require(&apos;fs&apos;)
+const xlsx = require(&apos;xlsx&apos;)
+
+const Converter = require(&apos;../Converter&apos;)
+
+class SheetConverter extends Converter {
+  createDom () {
+    return this.loadXml(`
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE sheet PUBLIC &quot;Stencila Sheet 1.0&quot; &quot;http://stenci.la/Sheet-1.0.dtd&quot;&gt;
+&lt;sheet&gt;
+  &lt;meta&gt;
+    &lt;name&gt;&lt;/name&gt;
+    &lt;title&gt;&lt;/title&gt;
+    &lt;description&gt;&lt;/description&gt;
+    &lt;columns&gt;&lt;/columns&gt;
+  &lt;/meta&gt;
+  &lt;data&gt;&lt;/data&gt;
+&lt;/sheet&gt;
+    `)
+  }
+
+  import (pathFrom, pathTo, volumeFrom, volumeTo, options = {}) {
+    pathTo = pathTo || (pathFrom + &apos;.sheet.xml&apos;)
+    volumeFrom = volumeFrom || fs
+    volumeTo = volumeTo || volumeFrom
+
+    return Promise.resolve().then(() =&gt; {
+      // The `xlsx` library seems to work best reading from file (rather than parsing data)
+      // so for now only support local files
+      if (volumeFrom !== fs) throw new Error(&apos;Only able to read from a local file system volume&apos;)
+      if (volumeTo !== fs) throw new Error(&apos;Only able to write to a local file system volume&apos;)
+
+      const workbook = xlsx.readFile(pathFrom)
+      const worksheet = workbook.Sheets[workbook.SheetNames[0]] // Currently, only importing first sheet
+
+      const cellRange = xlsx.utils.decode_range(worksheet[&apos;!ref&apos;])
+      return this.createDom().then((dom) =&gt; {
+        const columns = dom(&apos;columns&apos;)
+        const data = dom(&apos;data&apos;)
+        for (let r = 0; r &lt;= cellRange.e.r; r++) {
+          if (r === 0) {
+            for (let c = 0; c &lt;= cellRange.e.c; c++) {
+              let column = dom(&apos;&lt;col&gt;&apos;)
+              if (options.header) {
+                const ref = xlsx.utils.encode_cell({r: r, c: c})
+                const header = worksheet[ref]
+                if (header) column.attr(&apos;name&apos;, header.v)
+              }
+              columns.append(column)
+            }
+            if (options.header) continue
+          }
+          const row = dom(&apos;&lt;row&gt;&apos;)
+          for (let c = 0; c &lt;= cellRange.e.c; c++) {
+            const ref = xlsx.utils.encode_cell({r: r, c: c})
+            const cell = worksheet[ref]
+            if (cell) {
+              let cellEl = dom(&apos;&lt;cell&gt;&apos;)
+              if (cell.f) {
+                cellEl.attr(&apos;language&apos;, &apos;mini&apos;)
+                cellEl.text(&apos;=&apos; + cell.f)
+              } else {
+                if (typeof cell.v === &apos;string&apos;) {
+                  let match = cell.v.match(/^(r|py|js)=(.*)/)
+                  if (match) {
+                    cellEl.attr(&apos;language&apos;, match[1])
+                    cellEl.text(&apos;=&apos; + match[2])
+                  } else {
+                    cellEl.text(cell.v)
+                  }
+                } else {
+                  cellEl.text(cell.v)
+                }
+              }
+              row.append(cellEl)
+            }
+          }
+          data.append(row)
+        }
+
+        return this.writeXml(pathTo, dom, volumeTo, {
+          declaration: true,
+          tagsContentUnformatted: [&apos;cell&apos;]
+        }).then(() =&gt; {
+          return { pathFrom, pathTo, formatTo: &apos;application/sheetml&apos; }
+        })
+      })
+    })
+  }
+
+  export (pathFrom, pathTo, volumeFrom, volumeTo) {
+    volumeFrom = volumeFrom || fs
+    volumeTo = volumeTo || volumeFrom
+
+    return this.readXml(pathFrom).then((dom) =&gt; {
+      // The `xlsx` library seems to work best reading from file (rather than parsing data)
+      // so for now only support local files
+      if (volumeFrom !== fs) throw new Error(&apos;Only able to read from a local file system volume&apos;)
+      if (volumeTo !== fs) throw new Error(&apos;Only able to write to a local file system volume&apos;)
+
+      const cells = {}
+      const data = dom(&apos;data&apos;)
+      let end = {r: 0, c: 0}
+      data.find(&apos;row&apos;).each((r, elem) =&gt; {
+        let row = dom(elem)
+        row.find(&apos;cell&apos;).each((c, elem) =&gt; {
+          let cell = dom(elem)
+          const text = cell.text()
+          if (text) {
+            const ref = xlsx.utils.encode_cell({r: r, c: c})
+            cells[ref] = {
+              t: &apos;s&apos;,
+              v: text
+            }
+            end = {r: r, c: c}
+          }
+        })
+      })
+      cells[&apos;!ref&apos;] = xlsx.utils.encode_range({
+        s: {r: 0, c: 0},
+        e: end
+      })
+
+      const workbook = {
+        SheetNames: [&apos;Sheet1&apos;],
+        Sheets: {
+          Sheet1: cells
+        }
+      }
+
+      return new Promise((resolve, reject) =&gt; {
+        xlsx.writeFileAsync(pathTo, workbook, {
+          type: &apos;string&apos;
+        }, (err) =&gt; {
+          err ? reject(err) : resolve(pathTo)
+        })
+      })
+    })
+  }
+}
+
+module.exports = SheetConverter
+</code></pre>
+
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.0.4)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

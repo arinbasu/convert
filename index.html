@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl">
+  <title data-ice="title">Home | stencila-convert</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="Converters for Stencila components"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="stencila-convert"><meta property="twitter:description" content="Converters for Stencila components"></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+<a style="position:relative; top:3px;" href="https://github.com/stencila/convert"><img width="20px" src="./image/github.png"></a></header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#document">document</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentConverter.js~DocumentConverter.html">DocumentConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentDocxConverter.js~DocumentDocxConverter.html">DocumentDocxConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentHtmlConverter.js~DocumentHtmlConverter.html">DocumentHtmlConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentJupyterConverter.js~DocumentJupyterConverter.html">DocumentJupyterConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentLatexConverter.js~DocumentLatexConverter.html">DocumentLatexConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentMdConverter.js~DocumentMdConverter.html">DocumentMdConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentOdtConverter.js~DocumentOdtConverter.html">DocumentOdtConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentPandocConverter.js~DocumentPandocConverter.html">DocumentPandocConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentPdfConverter.js~DocumentPdfConverter.html">DocumentPdfConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentRmdConverter.js~DocumentRmdConverter.html">DocumentRmdConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentXmdConverter.js~DocumentXmdConverter.html">DocumentXmdConverter</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#helpers">helpers</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-pandoc">pandoc</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#project">project</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/project/ProjectConverter.js~ProjectConverter.html">ProjectConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/project/ProjectFolderConverter.js~ProjectFolderConverter.html">ProjectFolderConverter</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#sheet">sheet</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetConverter.js~SheetConverter.html">SheetConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetDSVConverter.js~SheetDSVConverter.html">SheetDSVConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetODSConverter.js~SheetODSConverter.html">SheetODSConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetScriptConverter.js~SheetScriptConverter.html">SheetScriptConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetTDPConverter.js~SheetTDPConverter.html">SheetTDPConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetXLSXConverter.js~SheetXLSXConverter.html">SheetXLSXConverter</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h2 id="-code-stencila-convert--code----stencila-converters"><code>stencila/convert</code> : Stencila converters</h2><p><img src="https://img.shields.io/badge/stability-experimental-orange.svg" alt="Experimental">
+<a href="https://www.npmjs.com/package/stencila-convert"><img src="http://img.shields.io/npm/v/stencila-convert.svg?style=flat" alt="NPM"></a>
+<a href="https://travis-ci.org/stencila/convert"><img src="https://travis-ci.org/stencila/convert.svg?branch=master" alt="Build status"></a>
+<a href="https://ci.appveyor.com/project/nokome/convert"><img src="https://ci.appveyor.com/api/projects/status/f1hx694pxm0fyqni?svg=true" alt="Build status"></a>
+<a href="https://codecov.io/gh/stencila/convert"><img src="https://codecov.io/gh/stencila/convert/branch/master/graph/badge.svg" alt="Code coverage"></a>
+<a href="https://david-dm.org/stencila/convert"><img src="https://david-dm.org/stencila/convert.svg" alt="Dependency status"></a>
+<a href="https://community.stenci.la"><img src="https://img.shields.io/badge/join-community-green.svg" alt="Community"></a>
+<a href="https://gitter.im/stencila/stencila"><img src="https://badges.gitter.im/stencila/stencila.svg" alt="Chat"></a></p>
+<h3 id="use">Use</h3><p>This package is integrated into the Stencila command line tool <a href="https://github.com/stencila/cli"><code>stencila/cli</code></a>. That&apos;s the most convenient way to use converters e.g.</p>
+<pre><code class="lang-bash"><code class="source-code prettyprint">stencila convert document.md document.jats</code>
+</code></pre>
+<p>But you can also use this package directly e.g.</p>
+<pre><code class="lang-bash"><code class="source-code prettyprint">npm install stencila-convert -g
+stencila-convert import document.md document.jats.xml</code>
+</code></pre>
+<p>Many of the <code>Document</code> converters rely on a recent version of Pandoc. This package will use an existing installation of Pandoc if it is new enough. If not, it will automatically download the required Pandoc version to the Stencila directory in your home folder. See <a href="src/helpers/pandoc.json"><code>pandoc.json</code></a> for the necessary Pandoc version and download URLs. At times it may be necessary to use our custom Pandoc build available at <a href="https://github.com/stencila/pandoc/releases">https://github.com/stencila/pandoc/releases</a>.</p>
+<p>API documentation is available at <a href="https://stencila.github.io/convert">https://stencila.github.io/convert</a>.</p>
+<h3 id="status">Status</h3><p>The following table lists the status of converters that have been developed, are in development, or are being considered for development. We&apos;ll be developing converters based on demand from users. So if you&apos;d like to see a converter for your favorite format, +1 the relevant issue, or create an issue if there isn&apos;t one yet. Or, send us a pull request!</p>
+<table>
+<thead>
+<tr>
+<th>Format</th>
+<th style="text-align:center">Import</th>
+<th style="text-align:center">Export</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Documents</strong></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td>Markdown</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+</tr>
+<tr>
+<td>RMarkdown</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td>Latex</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+</tr>
+<tr>
+<td>Jupyter Notebook</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td>HTML</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+</tr>
+<tr>
+<td>PDF</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+</tr>
+<tr>
+<td><strong>Sheets</strong></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td>CSV</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+</tr>
+<tr>
+<td>CSVY</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td>Tabular Data Package</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td>Excel <code>.xlsx</code></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+</tr>
+<tr>
+<td>Open Document Spreadsheet <code>.ods</code></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/status-alpha-red.svg" alt="alpha"></td>
+</tr>
+</tbody>
+</table>
+<h3 id="develop">Develop</h3><ol>
+<li><p>Clone the repo</p>
+<pre><code class="lang-bash"><code class="source-code prettyprint"> git clone https://github.com/stencila/convert.git</code>
+</code></pre>
+</li>
+<li><p>Install dependencies</p>
+<pre><code class="lang-bash"><code class="source-code prettyprint"> npm install</code>
+</code></pre>
+</li>
+</ol>
+<h4 id="testing">Testing</h4><p>Run the test suite:</p>
+<pre><code class="lang-bash"><code class="source-code prettyprint">npm test # or make test</code>
+</code></pre>
+<p>Or, run a single test file:</p>
+<p>Run the test suite:</p>
+<pre><code class="lang-bash"><code class="source-code prettyprint">npm run test-one -- tests/document/DocumentJupyterConverter.test.js</code>
+</code></pre>
+<p>To get coverage statistics:</p>
+<pre><code class="lang-bash"><code class="source-code prettyprint">npm run cover # or make cover</code>
+</code></pre>
+<p>Or, manually test conversion using the bin script:</p>
+<pre><code class="lang-bash"><code class="source-code prettyprint">./bin/stencila-convert.js tests/document/fixtures/paragraph/md/paragraph.md temp.pdf</code>
+</code></pre>
+<p>You can also test using Docker (e.g. so you can test under Linux):</p>
+<pre><code class="lang-bash"><code class="source-code prettyprint">docker build --tag stencila/convert .
+docker run stencila/convert</code>
+</code></pre>
+</div>
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.0.4)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

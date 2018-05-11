@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../../../">
+  <title data-ice="title">src/document/DocumentJupyterConverter.js | stencila-convert</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="Converters for Stencila components"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="stencila-convert"><meta property="twitter:description" content="Converters for Stencila components"></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+<a style="position:relative; top:3px;" href="https://github.com/stencila/convert"><img width="20px" src="./image/github.png"></a></header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#document">document</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentConverter.js~DocumentConverter.html">DocumentConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentDocxConverter.js~DocumentDocxConverter.html">DocumentDocxConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentHtmlConverter.js~DocumentHtmlConverter.html">DocumentHtmlConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentJupyterConverter.js~DocumentJupyterConverter.html">DocumentJupyterConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentLatexConverter.js~DocumentLatexConverter.html">DocumentLatexConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentMdConverter.js~DocumentMdConverter.html">DocumentMdConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentOdtConverter.js~DocumentOdtConverter.html">DocumentOdtConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentPandocConverter.js~DocumentPandocConverter.html">DocumentPandocConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentPdfConverter.js~DocumentPdfConverter.html">DocumentPdfConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentRmdConverter.js~DocumentRmdConverter.html">DocumentRmdConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/document/DocumentXmdConverter.js~DocumentXmdConverter.html">DocumentXmdConverter</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#helpers">helpers</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-pandoc">pandoc</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#project">project</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/project/ProjectConverter.js~ProjectConverter.html">ProjectConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/project/ProjectFolderConverter.js~ProjectFolderConverter.html">ProjectFolderConverter</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#sheet">sheet</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetConverter.js~SheetConverter.html">SheetConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetDSVConverter.js~SheetDSVConverter.html">SheetDSVConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetODSConverter.js~SheetODSConverter.html">SheetODSConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetScriptConverter.js~SheetScriptConverter.html">SheetScriptConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetTDPConverter.js~SheetTDPConverter.html">SheetTDPConverter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/sheet/SheetXLSXConverter.js~SheetXLSXConverter.html">SheetXLSXConverter</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><h1 data-ice="title">src/document/DocumentJupyterConverter.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">const fs = require(&apos;fs&apos;)
+const memfs = require(&apos;memfs&apos;)
+const yaml = require(&apos;js-yaml&apos;)
+
+const DocumentMdConverter = require(&apos;./DocumentMdConverter&apos;)
+
+/**
+ * Jupyter notebook converter for the Stencila Documents
+ *
+ * Converts a document from/to a Jupyter Notebook based on
+ * the documentation of the notebook format at
+ *
+ *   https://github.com/jupyter/nbformat
+ *
+ * See there for JSON schemas too
+ *
+ *   e.g. https://github.com/jupyter/nbformat/blob/master/nbformat/v4/nbformat.v4.schema.json
+ */
+class DocumentJupyterConverter extends DocumentMdConverter {
+  extensions () {
+    return [&apos;ipynb&apos;]
+  }
+
+  import (pathFrom, pathTo, volumeFrom, volumeTo, options) {
+    volumeFrom = volumeFrom || fs
+    volumeTo = volumeTo || volumeFrom
+
+    return this.readFile(pathFrom, volumeFrom).then((json) =&gt; {
+      let md = &apos;&apos;
+
+      const data = JSON.parse(json)
+
+      // Get notebook metadata
+      let metadata = data.metadata
+
+      // Convert metadata to YAML front matter
+      md += &apos;---\n&apos;
+      md += yaml.dump(metadata)
+      md += &apos;\n---\n&apos;
+
+      // Get notebook language
+      let language
+      if (metadata) {
+        if (metadata.language_info) {
+          language = metadata.language_info.name
+        } else if (metadata.kernelspec) {
+          language = metadata.kernelspec.language
+        } else if (metadata.kernel_info) {
+          language = metadata.kernel_info.language
+        }
+      }
+
+      // Get cells
+      let cells
+      if (data.cells) {
+        cells = data.cells
+      } else if (data.worksheets) {
+        // In nbformat 3.0 there is an array called worksheets, each having cells
+        cells = data.worksheets[0].cells
+      }
+
+      // Iterate over cells
+      for (let cell of cells) {
+        let source = cell.source.join(&apos;&apos;)
+        if (cell.cell_type === &apos;markdown&apos;) {
+          // Ensure two new lines at end of markdown cell for proper separation
+          // from following cells
+          md += source + &apos;\n\n&apos;
+        } else if (cell.cell_type === &apos;code&apos;) {
+          // Code cells as Pandoc `backtick_code_blocks` with `fenced_code_attributes`
+          // to store language and indicate an executable cell
+          // Remove any trailing newline, otherwise we get an extra line in source
+          if (source.slice(-1) === &apos;\n&apos;) source = source.slice(0, -1)
+          // Use the `code-type` JATS valid attribute to indicate a Jupyter cell
+          md += &apos;\n``` {.&apos; + language + &apos; code-type=&quot;jupyter&quot; executable=&quot;yes&quot;}\n&apos; + source + &apos;\n```\n&apos;
+        }
+      }
+
+      const volumeTemp = new memfs.Volume()
+      return this.writeFile(pathFrom, md, volumeTemp).then(() =&gt; {
+        return super.import(pathFrom, pathTo, volumeTemp, volumeTo, options)
+      })
+    })
+  }
+}
+
+module.exports = DocumentJupyterConverter
+</code></pre>
+
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.0.4)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

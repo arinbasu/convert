@@ -1,0 +1,3295 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/document/DocumentConverter.js",
+    "content": "const Converter = require('../Converter')\n\nclass DocumentConverter extends Converter {\n  extensions () {\n    return ['jats']\n  }\n}\n\nmodule.exports = DocumentConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/document/DocumentConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "class",
+    "name": "DocumentConverter",
+    "memberof": "src/document/DocumentConverter.js",
+    "static": true,
+    "longname": "src/document/DocumentConverter.js~DocumentConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/document/DocumentConverter.js",
+    "importStyle": "DocumentConverter",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/Converter.js~Converter"
+    ]
+  },
+  {
+    "__docId__": 50,
+    "kind": "method",
+    "name": "extensions",
+    "memberof": "src/document/DocumentConverter.js~DocumentConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentConverter.js~DocumentConverter#extensions",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "string[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 51,
+    "kind": "file",
+    "name": "src/document/DocumentDocxConverter.js",
+    "content": "const DocumentPandocConverter = require('./DocumentPandocConverter')\n\nclass DocumentDocxConverter extends DocumentPandocConverter {\n  pandocFormat () {\n    return 'docx'\n  }\n\n  pandocExportArgs (args, options) {\n    return super.pandocExportArgs(args, options).concat([\n      // \"Extract images and other media contained in or linked from the source\n      // document to the path DIR, creating it if necessary...\"\"\n      '--extract-media=media'\n    ])\n  }\n}\n\nmodule.exports = DocumentDocxConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/document/DocumentDocxConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 52,
+    "kind": "class",
+    "name": "DocumentDocxConverter",
+    "memberof": "src/document/DocumentDocxConverter.js",
+    "static": true,
+    "longname": "src/document/DocumentDocxConverter.js~DocumentDocxConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/document/DocumentDocxConverter.js",
+    "importStyle": "DocumentDocxConverter",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/document/DocumentPandocConverter.js~DocumentPandocConverter"
+    ]
+  },
+  {
+    "__docId__": 53,
+    "kind": "method",
+    "name": "pandocFormat",
+    "memberof": "src/document/DocumentDocxConverter.js~DocumentDocxConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentDocxConverter.js~DocumentDocxConverter#pandocFormat",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "method",
+    "name": "pandocExportArgs",
+    "memberof": "src/document/DocumentDocxConverter.js~DocumentDocxConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentDocxConverter.js~DocumentDocxConverter#pandocExportArgs",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "params": [
+      {
+        "name": "args",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "file",
+    "name": "src/document/DocumentHtmlConverter.js",
+    "content": "const DocumentPandocConverter = require('./DocumentPandocConverter')\n\nclass DocumentHtmlConverter extends DocumentPandocConverter {\n  pandocFormat () {\n    return 'html'\n  }\n}\n\nmodule.exports = DocumentHtmlConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/document/DocumentHtmlConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 56,
+    "kind": "class",
+    "name": "DocumentHtmlConverter",
+    "memberof": "src/document/DocumentHtmlConverter.js",
+    "static": true,
+    "longname": "src/document/DocumentHtmlConverter.js~DocumentHtmlConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/document/DocumentHtmlConverter.js",
+    "importStyle": "DocumentHtmlConverter",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/document/DocumentPandocConverter.js~DocumentPandocConverter"
+    ]
+  },
+  {
+    "__docId__": 57,
+    "kind": "method",
+    "name": "pandocFormat",
+    "memberof": "src/document/DocumentHtmlConverter.js~DocumentHtmlConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentHtmlConverter.js~DocumentHtmlConverter#pandocFormat",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 58,
+    "kind": "file",
+    "name": "src/document/DocumentJupyterConverter.js",
+    "content": "const fs = require('fs')\nconst memfs = require('memfs')\nconst yaml = require('js-yaml')\n\nconst DocumentMdConverter = require('./DocumentMdConverter')\n\n/**\n * Jupyter notebook converter for the Stencila Documents\n *\n * Converts a document from/to a Jupyter Notebook based on\n * the documentation of the notebook format at\n *\n *   https://github.com/jupyter/nbformat\n *\n * See there for JSON schemas too\n *\n *   e.g. https://github.com/jupyter/nbformat/blob/master/nbformat/v4/nbformat.v4.schema.json\n */\nclass DocumentJupyterConverter extends DocumentMdConverter {\n  extensions () {\n    return ['ipynb']\n  }\n\n  import (pathFrom, pathTo, volumeFrom, volumeTo, options) {\n    volumeFrom = volumeFrom || fs\n    volumeTo = volumeTo || volumeFrom\n\n    return this.readFile(pathFrom, volumeFrom).then((json) => {\n      let md = ''\n\n      const data = JSON.parse(json)\n\n      // Get notebook metadata\n      let metadata = data.metadata\n\n      // Convert metadata to YAML front matter\n      md += '---\\n'\n      md += yaml.dump(metadata)\n      md += '\\n---\\n'\n\n      // Get notebook language\n      let language\n      if (metadata) {\n        if (metadata.language_info) {\n          language = metadata.language_info.name\n        } else if (metadata.kernelspec) {\n          language = metadata.kernelspec.language\n        } else if (metadata.kernel_info) {\n          language = metadata.kernel_info.language\n        }\n      }\n\n      // Get cells\n      let cells\n      if (data.cells) {\n        cells = data.cells\n      } else if (data.worksheets) {\n        // In nbformat 3.0 there is an array called worksheets, each having cells\n        cells = data.worksheets[0].cells\n      }\n\n      // Iterate over cells\n      for (let cell of cells) {\n        let source = cell.source.join('')\n        if (cell.cell_type === 'markdown') {\n          // Ensure two new lines at end of markdown cell for proper separation\n          // from following cells\n          md += source + '\\n\\n'\n        } else if (cell.cell_type === 'code') {\n          // Code cells as Pandoc `backtick_code_blocks` with `fenced_code_attributes`\n          // to store language and indicate an executable cell\n          // Remove any trailing newline, otherwise we get an extra line in source\n          if (source.slice(-1) === '\\n') source = source.slice(0, -1)\n          // Use the `code-type` JATS valid attribute to indicate a Jupyter cell\n          md += '\\n``` {.' + language + ' code-type=\"jupyter\" executable=\"yes\"}\\n' + source + '\\n```\\n'\n        }\n      }\n\n      const volumeTemp = new memfs.Volume()\n      return this.writeFile(pathFrom, md, volumeTemp).then(() => {\n        return super.import(pathFrom, pathTo, volumeTemp, volumeTo, options)\n      })\n    })\n  }\n}\n\nmodule.exports = DocumentJupyterConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/document/DocumentJupyterConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 59,
+    "kind": "class",
+    "name": "DocumentJupyterConverter",
+    "memberof": "src/document/DocumentJupyterConverter.js",
+    "static": true,
+    "longname": "src/document/DocumentJupyterConverter.js~DocumentJupyterConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/document/DocumentJupyterConverter.js",
+    "importStyle": "DocumentJupyterConverter",
+    "description": "Jupyter notebook converter for the Stencila Documents\n\nConverts a document from/to a Jupyter Notebook based on\nthe documentation of the notebook format at\n\n  https://github.com/jupyter/nbformat\n\nSee there for JSON schemas too\n\n  e.g. https://github.com/jupyter/nbformat/blob/master/nbformat/v4/nbformat.v4.schema.json",
+    "lineNumber": 19,
+    "interface": false,
+    "extends": [
+      "src/document/DocumentMdConverter.js~DocumentMdConverter"
+    ]
+  },
+  {
+    "__docId__": 60,
+    "kind": "method",
+    "name": "extensions",
+    "memberof": "src/document/DocumentJupyterConverter.js~DocumentJupyterConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentJupyterConverter.js~DocumentJupyterConverter#extensions",
+    "access": "public",
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "string[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "method",
+    "name": "import",
+    "memberof": "src/document/DocumentJupyterConverter.js~DocumentJupyterConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentJupyterConverter.js~DocumentJupyterConverter#import",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "src/document/DocumentLatexConverter.js",
+    "content": "const DocumentPandocConverter = require('./DocumentPandocConverter')\n\nclass DocumentLatexConverter extends DocumentPandocConverter {\n  extensions () {\n    return ['tex']\n  }\n\n  pandocFormat () {\n    return 'latex'\n  }\n}\n\nmodule.exports = DocumentLatexConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/document/DocumentLatexConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "class",
+    "name": "DocumentLatexConverter",
+    "memberof": "src/document/DocumentLatexConverter.js",
+    "static": true,
+    "longname": "src/document/DocumentLatexConverter.js~DocumentLatexConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/document/DocumentLatexConverter.js",
+    "importStyle": "DocumentLatexConverter",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/document/DocumentPandocConverter.js~DocumentPandocConverter"
+    ]
+  },
+  {
+    "__docId__": 64,
+    "kind": "method",
+    "name": "extensions",
+    "memberof": "src/document/DocumentLatexConverter.js~DocumentLatexConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentLatexConverter.js~DocumentLatexConverter#extensions",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "string[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "method",
+    "name": "pandocFormat",
+    "memberof": "src/document/DocumentLatexConverter.js~DocumentLatexConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentLatexConverter.js~DocumentLatexConverter#pandocFormat",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "file",
+    "name": "src/document/DocumentMdConverter.js",
+    "content": "const fs = require('fs')\nconst memfs = require('memfs')\nconst path = require('path')\nconst yaml = require('js-yaml')\nconst yamlFront = require('yaml-front-matter')\n\nconst DocumentPandocConverter = require('./DocumentPandocConverter')\n\nclass DocumentMdConverter extends DocumentPandocConverter {\n  extensions () {\n    return ['md']\n  }\n\n  pandocImportFormat () {\n    return 'markdown-auto_identifiers'\n  }\n\n  pandocImportArgs (options) {\n    return super.pandocImportArgs(options).concat([\n      '--filter=pandoc-citeproc' // Use citeproc filter of citaion and reference support\n    ])\n  }\n\n  pandocExportFormat () {\n    return 'markdown'\n  }\n\n  pandocExportTemplate () {\n    return path.join(__dirname, 'DocumentMdTemplate.md')\n  }\n\n  pandocExportArgs (options) {\n    return super.pandocExportArgs(options).concat([\n      '--columns=100', // Text wrapping width (for discussion on optimum see https://www.viget.com/articles/the-line-length-misconception/)\n      '--atx-headers'  // Use ATX (#) headers\n    ])\n  }\n\n  import (pathFrom, pathTo, volumeFrom, volumeTo, options = {}) {\n    volumeFrom = volumeFrom || fs\n    volumeTo = volumeTo || volumeFrom\n\n    // Process any YAML front matter by translating any aliases\n    return this.readFile(pathFrom, volumeFrom || fs).then((md) => {\n      let front = yamlFront.loadFront(md)\n\n      let author = front.author || front.authors\n      if (author) {\n        author = author.map(author => {\n          return {\n            'surname': author['surname'],\n            'given-names': author['given-names'],\n            'aff-id': author['aff-id'] || author['affiliation']\n          }\n        })\n        front.author = author\n        if (front.authors) front.authors = undefined\n      }\n\n      let orgs = front.orgs || front.organisations\n      if (orgs) {\n        front.orgs = orgs\n        if (front.organisations) front.organisations = undefined\n      }\n\n      let mdNew = `---\\n${yaml.dump(front)}\\n---\\n\\n${front.__content}`\n\n      const volumeTemp = new memfs.Volume()\n      return this.writeFile(pathFrom, mdNew, volumeTemp).then(() => {\n        return super.import(pathFrom, pathTo, volumeTemp, volumeTo, options)\n      })\n    })\n  }\n\n  export (pathFrom, pathTo, volumeFrom, volumeTo, options = {}) {\n    const volumeTemp = new memfs.Volume()\n    return super.export(pathFrom, '/temp.md', volumeFrom, volumeTemp, options).then(() => {\n      return this.readFile('/temp.md', volumeTemp)\n    }).then(md => {\n      let mdNew\n      if (options.complete) {\n        // DocumentMdTemplate.md writes metadata as JSON on the first line\n        // so extract that from the content\n        const lines = md.split('\\n')\n        const json = lines[0]\n        const content = lines.slice(1).join('\\n')\n\n        let front = JSON.parse(json)\n\n        mdNew = `---\\n${yaml.dump(front)}---\\n\\n${content}`\n      } else {\n        mdNew = md\n      }\n      return this.writeFile(pathTo, mdNew, volumeTo)\n    })\n  }\n}\n\nmodule.exports = DocumentMdConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/document/DocumentMdConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 67,
+    "kind": "class",
+    "name": "DocumentMdConverter",
+    "memberof": "src/document/DocumentMdConverter.js",
+    "static": true,
+    "longname": "src/document/DocumentMdConverter.js~DocumentMdConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/document/DocumentMdConverter.js",
+    "importStyle": "DocumentMdConverter",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/document/DocumentPandocConverter.js~DocumentPandocConverter"
+    ]
+  },
+  {
+    "__docId__": 68,
+    "kind": "method",
+    "name": "extensions",
+    "memberof": "src/document/DocumentMdConverter.js~DocumentMdConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentMdConverter.js~DocumentMdConverter#extensions",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "string[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "method",
+    "name": "pandocImportFormat",
+    "memberof": "src/document/DocumentMdConverter.js~DocumentMdConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentMdConverter.js~DocumentMdConverter#pandocImportFormat",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "method",
+    "name": "pandocImportArgs",
+    "memberof": "src/document/DocumentMdConverter.js~DocumentMdConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentMdConverter.js~DocumentMdConverter#pandocImportArgs",
+    "access": "public",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "method",
+    "name": "pandocExportFormat",
+    "memberof": "src/document/DocumentMdConverter.js~DocumentMdConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentMdConverter.js~DocumentMdConverter#pandocExportFormat",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "method",
+    "name": "pandocExportTemplate",
+    "memberof": "src/document/DocumentMdConverter.js~DocumentMdConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentMdConverter.js~DocumentMdConverter#pandocExportTemplate",
+    "access": "public",
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "method",
+    "name": "pandocExportArgs",
+    "memberof": "src/document/DocumentMdConverter.js~DocumentMdConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentMdConverter.js~DocumentMdConverter#pandocExportArgs",
+    "access": "public",
+    "description": null,
+    "lineNumber": 32,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "method",
+    "name": "import",
+    "memberof": "src/document/DocumentMdConverter.js~DocumentMdConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentMdConverter.js~DocumentMdConverter#import",
+    "access": "public",
+    "description": null,
+    "lineNumber": 39,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "method",
+    "name": "export",
+    "memberof": "src/document/DocumentMdConverter.js~DocumentMdConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentMdConverter.js~DocumentMdConverter#export",
+    "access": "public",
+    "description": null,
+    "lineNumber": 75,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 76,
+    "kind": "file",
+    "name": "src/document/DocumentOdtConverter.js",
+    "content": "const DocumentPandocConverter = require('./DocumentPandocConverter')\n\nclass DocumentOdtConverter extends DocumentPandocConverter {\n  pandocFormat () {\n    return 'odt'\n  }\n\n  pandocExportArgs (args, options) {\n    return super.pandocExportArgs(args, options).concat([\n      // \"Extract images and other media contained in or linked from the source\n      // document to the path DIR, creating it if necessary...\"\"\n      '--extract-media=media'\n    ])\n  }\n}\n\nmodule.exports = DocumentOdtConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/document/DocumentOdtConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 77,
+    "kind": "class",
+    "name": "DocumentOdtConverter",
+    "memberof": "src/document/DocumentOdtConverter.js",
+    "static": true,
+    "longname": "src/document/DocumentOdtConverter.js~DocumentOdtConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/document/DocumentOdtConverter.js",
+    "importStyle": "DocumentOdtConverter",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/document/DocumentPandocConverter.js~DocumentPandocConverter"
+    ]
+  },
+  {
+    "__docId__": 78,
+    "kind": "method",
+    "name": "pandocFormat",
+    "memberof": "src/document/DocumentOdtConverter.js~DocumentOdtConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentOdtConverter.js~DocumentOdtConverter#pandocFormat",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "method",
+    "name": "pandocExportArgs",
+    "memberof": "src/document/DocumentOdtConverter.js~DocumentOdtConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentOdtConverter.js~DocumentOdtConverter#pandocExportArgs",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "params": [
+      {
+        "name": "args",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "file",
+    "name": "src/document/DocumentPandocConverter.js",
+    "content": "const cheerio = require('cheerio')\nconst fs = require('fs')\nconst memfs = require('memfs')\nconst mkdirp = require('mkdirp')\nconst path = require('path')\n\nconst DocumentConverter = require('./DocumentConverter')\nconst pandoc = require('../helpers/pandoc')\n\nconst JATS_EXTS = /(\\.jats)|(\\.jats\\.xml)$/\nconst JATS_TEMPLATE = path.join(__dirname, 'DocumentJatsTemplate.xml')\n\nclass DocumentPandocConverter extends DocumentConverter {\n  extensions () {\n    return [this.pandocFormat()]\n  }\n\n  canImport (pathFrom) {\n    if (this.pandocImportFormat() === 'jats') return Promise.resolve(pathFrom.match(JATS_EXTS) !== null)\n    else return this.matchExtensions(pathFrom, this.extensions())\n  }\n\n  canExport (pathTo) {\n    if (this.pandocExportFormat() === 'jats') return Promise.resolve(pathTo.match(JATS_EXTS) !== null)\n    else return this.matchExtensions(pathTo, this.extensions())\n  }\n\n  pandocFormat () {\n    return 'jats'\n  }\n\n  pandocImportFormat () {\n    return this.pandocFormat()\n  }\n\n  pandocImportArgs (options = {}) {\n    if (options.complete !== false) options.complete = true\n\n    let args = [\n      '--from', this.pandocImportFormat(),\n      '--to=jats',\n      '--wrap', 'none' // Don't wrap text (shouldn't anyway for JATS, but older versions of Pandoc did)\n    ]\n    if (options.complete) {\n      args = args.concat([\n        '--standalone',\n        '--template', JATS_TEMPLATE\n      ])\n    }\n    return args\n  }\n\n  pandocExportFormat () {\n    return this.pandocFormat()\n  }\n\n  pandocExportTemplate () {\n    return ''\n  }\n\n  pandocExportArgs (options = {}) {\n    if (options.complete !== false) options.complete = true\n\n    let args = [\n      '--from', 'jats',\n      '--to', this.pandocExportFormat(),\n      // Writer options (for writing the exported content)\n      '--eol', options.eol || 'native' // Line endings : --eol=crlf|lf|native\n    ]\n    if (options.complete) {\n      args = args.concat([\n        '--standalone',\n        '--template', this.pandocExportTemplate()\n      ])\n    }\n    return args\n  }\n\n  import (pathFrom, pathTo, volumeFrom, volumeTo, options = {}) {\n    pathTo = pathTo || (pathFrom + '.jats.xml')\n    volumeFrom = volumeFrom || fs\n    volumeTo = volumeTo || volumeFrom\n    if (options.complete !== false) options.complete = true\n\n    const volumeTemp = new memfs.Volume()\n    return this._convert(pathFrom, '/temp.jats', volumeFrom, volumeTemp, this.pandocImportArgs(options)).then(() => {\n      return this.readXml('/temp.jats', volumeTemp)\n    }).then((dom) => {\n      // Convert `<code>` elements with `executable=\"yes\"` to cells e.g.\n      //   <code language=\"python\" executable=\"yes\">...</code>\n      // To JATS4M cells\n      //   <code specific-use=\"cell\"><named-content><alternatives>\n      //     <code specific-use=\"source\" language=\"python\" executable=\"yes\">...</code>\n      //     <code specific-use=\"output\" language=\"json\"></code>\n      //   </alternatives></named-content></code>\n      dom('code[language][executable=yes]').each((index, elem) => {\n        let code = cheerio(elem)\n        // Pandoc does some transformation of language codes (e.g. `py` -> `python`, `r` -> `r script`)\n        // So normalise to the codes that Stencila uses\n        let language = code.attr('language')\n        language = {\n          'r script': 'r',\n          'python': 'py'\n        }[language] || language\n        // Check for Jupyter code type\n        let codeType = code.attr('code-type')\n        if (codeType) {\n          if (codeType === 'jupyter') language += 'jp'\n        }\n\n        let cell = `<alternatives>\n          <code specific-use=\"source\" language=\"${language}\" executable=\"yes\">${code.text()}</code>\n          <code specific-use=\"output\" language=\"json\">{}</code>\n        </alternatives>`\n        let parent = code.parent()\n        if (parent.is('fig')) {\n          parent.attr('fig-type', 'repro-fig')\n        } else {\n          cell = `<code specific-use=\"cell\"><named-content>${cell}</code>`\n        }\n        code.replaceWith(cell)\n      })\n\n      // Fix reference list produced by Pandoc citeproc which can contain\n      // text. Eventually it may be better use a custom CSL file.\n      // e.g. https://github.com/jgm/pandoc/blob/cf7d66c097ea8b93b5ece86aaa336994b0b281e9/data/jats.csl\n      dom('ref-list ref').each((index, elem) => {\n        let ref = cheerio(elem)\n\n        // Ignore any text in person-group elements by only\n        // extracting what is needed\n        let personGroup = ref.find('person-group')\n        let personGroupNew = cheerio('<person-group person-group-type=\"author\"/>')\n        let names = personGroup.find('name')\n        names.each((index, elem) => {\n          let name = cheerio(elem)\n          let nameNew = cheerio('<name/>')\n          nameNew.append(name.find('surname'))\n          nameNew.append(name.find('given-names'))\n          personGroupNew.append(nameNew)\n        })\n        personGroup.replaceWith(personGroupNew)\n\n        // Unwrap <year> etc from <date>\n        let date = ref.find('date')\n        date.replaceWith(date.html())\n      })\n\n      return this.writeXml(pathTo, dom, volumeTo, {\n        declaration: options.complete,\n        tagsUnformatted: ['bold', 'italic', 'ext-link'],\n        tagsContentUnformatted: ['p', 'preformat', 'code']\n      }).then(() => {\n        return {\n          pathFrom, pathTo, formatTo: 'article'\n        }\n      })\n    })\n  }\n\n  export (pathFrom, pathTo, volumeFrom, volumeTo, options = {}) {\n    pathTo = pathTo || (pathFrom + '.' + this.extensions()[0])\n    volumeFrom = volumeFrom || fs\n    volumeTo = volumeTo || volumeFrom\n\n    return this.readXml(pathFrom, volumeFrom).then(dom => {\n      // Covert JATS4M code cells e.g.\n      //   <code specific-use=\"cell\"><named-content><alternatives>\n      //     <code specific-use=\"source\" language=\"python\" executable=\"yes\">...</code>\n      //     <code specific-use=\"output\" language=\"json\"></code>\n      //   </alternatives></named-content></code>\n      // to JATS executable code blocks\n      //   <code language=\"python\" executable=\"yes\">...</code>\n      dom('code[specific-use=\"cell\"]').each((index, elem) => {\n        let cell = cheerio(elem)\n        let source = cell.find('code[specific-use=\"source\"]')\n        cell.replaceWith(source)\n      })\n\n      const volumeTemp = new memfs.Volume()\n      return this.writeXml('/temp.jats', dom, volumeTemp, {pretty: false}).then(() => {\n        return this._convert('/temp.jats', pathTo, volumeTemp, volumeTo, this.pandocExportArgs(options))\n      })\n    })\n  }\n\n  _convert (pathFrom, pathTo, volumeFrom, volumeTo, args) {\n    // If volumeTo is the local filesystem then get pandoc to output\n    // to there directly, otherwise write to the (virtual) filesystem\n    let output = true\n    if (volumeTo === fs) {\n      mkdirp(path.dirname(pathTo))\n      args = args.concat(['--output', pathTo])\n      output = false\n    }\n    // If volumeFrom is the local filesystem then get pandoc to read\n    // from there directly, otherwise read from the (virtual) filesystem\n    let input\n    if (volumeFrom === fs) {\n      args = args.concat([pathFrom])\n      input = Promise.resolve('')\n    } else {\n      input = this.readFile(pathFrom, volumeFrom)\n    }\n\n    // Read, spawn, write...\n    return input.then((content) => {\n      return pandoc.spawn(content, args)\n    }).then(result => {\n      if (!output) return pathTo\n      else {\n        return this.writeFile(pathTo, result, volumeTo).then(() => {\n          return pathTo\n        })\n      }\n    })\n  }\n}\n\nmodule.exports = DocumentPandocConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/document/DocumentPandocConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 81,
+    "kind": "variable",
+    "name": "JATS_EXTS",
+    "memberof": "src/document/DocumentPandocConverter.js",
+    "static": true,
+    "longname": "src/document/DocumentPandocConverter.js~JATS_EXTS",
+    "access": "public",
+    "export": false,
+    "importPath": "stencila-convert/src/document/DocumentPandocConverter.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "undefined"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 82,
+    "kind": "variable",
+    "name": "JATS_TEMPLATE",
+    "memberof": "src/document/DocumentPandocConverter.js",
+    "static": true,
+    "longname": "src/document/DocumentPandocConverter.js~JATS_TEMPLATE",
+    "access": "public",
+    "export": false,
+    "importPath": "stencila-convert/src/document/DocumentPandocConverter.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 83,
+    "kind": "class",
+    "name": "DocumentPandocConverter",
+    "memberof": "src/document/DocumentPandocConverter.js",
+    "static": true,
+    "longname": "src/document/DocumentPandocConverter.js~DocumentPandocConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/document/DocumentPandocConverter.js",
+    "importStyle": "DocumentPandocConverter",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/document/DocumentConverter.js~DocumentConverter"
+    ]
+  },
+  {
+    "__docId__": 84,
+    "kind": "method",
+    "name": "extensions",
+    "memberof": "src/document/DocumentPandocConverter.js~DocumentPandocConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPandocConverter.js~DocumentPandocConverter#extensions",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "undefined[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "method",
+    "name": "canImport",
+    "memberof": "src/document/DocumentPandocConverter.js~DocumentPandocConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPandocConverter.js~DocumentPandocConverter#canImport",
+    "access": "public",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 86,
+    "kind": "method",
+    "name": "canExport",
+    "memberof": "src/document/DocumentPandocConverter.js~DocumentPandocConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPandocConverter.js~DocumentPandocConverter#canExport",
+    "access": "public",
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 87,
+    "kind": "method",
+    "name": "pandocFormat",
+    "memberof": "src/document/DocumentPandocConverter.js~DocumentPandocConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPandocConverter.js~DocumentPandocConverter#pandocFormat",
+    "access": "public",
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 88,
+    "kind": "method",
+    "name": "pandocImportFormat",
+    "memberof": "src/document/DocumentPandocConverter.js~DocumentPandocConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPandocConverter.js~DocumentPandocConverter#pandocImportFormat",
+    "access": "public",
+    "description": null,
+    "lineNumber": 32,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 89,
+    "kind": "method",
+    "name": "pandocImportArgs",
+    "memberof": "src/document/DocumentPandocConverter.js~DocumentPandocConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPandocConverter.js~DocumentPandocConverter#pandocImportArgs",
+    "access": "public",
+    "description": null,
+    "lineNumber": 36,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 90,
+    "kind": "method",
+    "name": "pandocExportFormat",
+    "memberof": "src/document/DocumentPandocConverter.js~DocumentPandocConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPandocConverter.js~DocumentPandocConverter#pandocExportFormat",
+    "access": "public",
+    "description": null,
+    "lineNumber": 53,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 91,
+    "kind": "method",
+    "name": "pandocExportTemplate",
+    "memberof": "src/document/DocumentPandocConverter.js~DocumentPandocConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPandocConverter.js~DocumentPandocConverter#pandocExportTemplate",
+    "access": "public",
+    "description": null,
+    "lineNumber": 57,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "method",
+    "name": "pandocExportArgs",
+    "memberof": "src/document/DocumentPandocConverter.js~DocumentPandocConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPandocConverter.js~DocumentPandocConverter#pandocExportArgs",
+    "access": "public",
+    "description": null,
+    "lineNumber": 61,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 93,
+    "kind": "method",
+    "name": "import",
+    "memberof": "src/document/DocumentPandocConverter.js~DocumentPandocConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPandocConverter.js~DocumentPandocConverter#import",
+    "access": "public",
+    "description": null,
+    "lineNumber": 79,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 94,
+    "kind": "method",
+    "name": "export",
+    "memberof": "src/document/DocumentPandocConverter.js~DocumentPandocConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPandocConverter.js~DocumentPandocConverter#export",
+    "access": "public",
+    "description": null,
+    "lineNumber": 161,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 95,
+    "kind": "method",
+    "name": "_convert",
+    "memberof": "src/document/DocumentPandocConverter.js~DocumentPandocConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPandocConverter.js~DocumentPandocConverter#_convert",
+    "access": "private",
+    "description": null,
+    "lineNumber": 187,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "args",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 96,
+    "kind": "file",
+    "name": "src/document/DocumentPdfConverter.js",
+    "content": "const DocumentPandocConverter = require('./DocumentPandocConverter')\n\nclass DocumentPdfConverter extends DocumentPandocConverter {\n  canImport (pathFrom) {\n    // Currently unable to import PDF\n    return Promise.resolve(false)\n  }\n\n  canExport (pathTo) {\n    return this.matchExtensions(pathTo, ['pdf'])\n  }\n\n  pandocExportArgs (options) {\n    // The is no writer format for PDF, instead the output file extension should be .pdf\n    return [\n      '--from', 'jats'\n    ]\n  }\n}\n\nmodule.exports = DocumentPdfConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/document/DocumentPdfConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 97,
+    "kind": "class",
+    "name": "DocumentPdfConverter",
+    "memberof": "src/document/DocumentPdfConverter.js",
+    "static": true,
+    "longname": "src/document/DocumentPdfConverter.js~DocumentPdfConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/document/DocumentPdfConverter.js",
+    "importStyle": "DocumentPdfConverter",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/document/DocumentPandocConverter.js~DocumentPandocConverter"
+    ]
+  },
+  {
+    "__docId__": 98,
+    "kind": "method",
+    "name": "canImport",
+    "memberof": "src/document/DocumentPdfConverter.js~DocumentPdfConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPdfConverter.js~DocumentPdfConverter#canImport",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 99,
+    "kind": "method",
+    "name": "canExport",
+    "memberof": "src/document/DocumentPdfConverter.js~DocumentPdfConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPdfConverter.js~DocumentPdfConverter#canExport",
+    "access": "public",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 100,
+    "kind": "method",
+    "name": "pandocExportArgs",
+    "memberof": "src/document/DocumentPdfConverter.js~DocumentPdfConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentPdfConverter.js~DocumentPdfConverter#pandocExportArgs",
+    "access": "public",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "string[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 101,
+    "kind": "file",
+    "name": "src/document/DocumentRmdConverter.js",
+    "content": "const DocumentXmdConverter = require('./DocumentXmdConverter')\n\nclass DocumentRmdConverter extends DocumentXmdConverter {\n  extensions () {\n    return ['rmd']\n  }\n}\n\nmodule.exports = DocumentRmdConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/document/DocumentRmdConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 102,
+    "kind": "class",
+    "name": "DocumentRmdConverter",
+    "memberof": "src/document/DocumentRmdConverter.js",
+    "static": true,
+    "longname": "src/document/DocumentRmdConverter.js~DocumentRmdConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/document/DocumentRmdConverter.js",
+    "importStyle": "DocumentRmdConverter",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/document/DocumentXmdConverter.js~DocumentXmdConverter"
+    ]
+  },
+  {
+    "__docId__": 103,
+    "kind": "method",
+    "name": "extensions",
+    "memberof": "src/document/DocumentRmdConverter.js~DocumentRmdConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentRmdConverter.js~DocumentRmdConverter#extensions",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "string[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 104,
+    "kind": "file",
+    "name": "src/document/DocumentXmdConverter.js",
+    "content": "const fs = require('fs')\nconst memfs = require('memfs')\n\nconst DocumentMdConverter = require('./DocumentMdConverter')\n\n/**\nA Document converter for XMarkdown.\n\nXMarkdown is our name for RMarkdown-like formats, that is, RMarkdown but extended to language\nX, where X includes Python, Javascript, etc.\n\nThis is a preliminary implementation and not all of the following conversions are enabled yet.\n\nIn RMarkdown, R code is embedded in \"code chunks\". There are two types of code chunks: inline and block.\nIn XMarkdown, we allow both inline and block chunks to be defined in various languages using\nour usual language labels e.g. ``r``, ``py``, ``js``.\n\nInline code chunks, equivalent to Stencila's output cells, are declared using Markdown code spans\nprefixed by the language label e.g.\n\n    The answer is `r x`\n\nBlock code chunks, equivalent to Stencila's code cells, are declared using Markdown fenced code blocks\nwith attributes prefixed by the language label and, optionally, a chunk label and other options e.g.\n\n    ```{r myplot, fig.width=6, fig.height=7}\n    plot(x,y)\n    ```\n\nHere ``myplot`` is the chunk label and ```fig.width=6, fig.height=7``` are chunk options.\nA list of chunk options, recognised by the RMarkdown rendering enging, Knitr,\nis available at http://yihui.name/knitr/options/.\n\n**/\nclass DocumentXmdConverter extends DocumentMdConverter {\n  import (pathFrom, pathTo, volumeFrom, volumeTo, options = {}) {\n    volumeFrom = volumeFrom || fs\n    volumeTo = volumeTo || volumeFrom\n\n    // Preprocess XMarkdown to Markdown\n    return this.readFile(pathFrom, volumeFrom || fs).then((xmd) => {\n      let md = ''\n      let fig\n      for (let line of xmd.split('\\n')) {\n        let match = line.match(/^```\\s*{([a-z]+)\\s*([^}]*)}/)\n        if (match) {\n          let language = match[1]\n          let options = match[2]\n\n          // If this the chunk has the `fig.cap` option then create a\n          // .fig > .caption > .h1 using markdown syntax\n          fig = match[2] && match[2].match(/fig\\.cap=\"([^\"]*)\"/)\n          if (fig) {\n            // Create wrapping `div.fig` and `div.caption h1`\n            const title = fig[1]\n            md += `::: {.fig}\\n::: {.caption}\\n# ${title}\\n:::\\n`\n            // Remove fig.cap from cell options\n            options = options.replace(fig[0], '')\n            if (options.slice(-1) === ',') options = options.slice(0, -1)\n          }\n\n          // Code cells as Pandoc `backtick_code_blocks` with `fenced_code_attributes`\n          // to store language and indicate an executable cell\n          md += '``` {.' + language + ' executable=\"yes\"}\\n'\n          if (options) {\n            // Cell options as a comment line\n            md += `${this._comment(language)}: ${options}\\n`\n          }\n        } else if (line.match(/^```/)) {\n          md += '```\\n'\n          // Terminate the figure if currently in one\n          if (fig) {\n            md += `:::\\n`\n            fig = null\n          }\n        } else {\n          md += line + '\\n'\n        }\n      }\n\n      const volumeTemp = new memfs.Volume()\n      // Use `pathFrom` here instead of some arbitrary filename (which would be possible)\n      // to retain `pathTo` generation behaviour of `super.import`\n      return this.writeFile(pathFrom, md, volumeTemp).then(() => {\n        // Continue with normal Markdown import\n        return super.import(pathFrom, pathTo, volumeTemp, volumeTo, options)\n      })\n    })\n  }\n\n  export (pathFrom, pathTo, volumeFrom, volumeTo, options = {}) {\n    const volumeTemp = new memfs.Volume()\n    return super.export(pathFrom, '/temp.md', volumeFrom, volumeTemp, options).then(() => {\n      return this.readFile('/temp.md', volumeTemp)\n    }).then(md => {\n      let xmd = ''\n      let lines = md.split('\\n')\n      for (let index = 0; index < lines.length; index++) {\n        let line = lines[index]\n        // Convert Pandoc Markdown code cells to XMarkdown code chunks\n        let match = line.match(/^```\\s*\\{\\.([a-z]+)\\}/)\n        if (match) {\n          let language = match[1]\n          let spec = '``` {' + language\n\n          let first = lines[index + 1]\n          if (first) {\n            let comment = this._comment(language)\n            let options = first.match(`^${comment}:\\\\s*(.*)`)\n            if (options) {\n              spec += ' ' + options[1]\n              index += 1\n            }\n          }\n          xmd += spec + '}\\n'\n        } else {\n          xmd += line + '\\n'\n        }\n      }\n      return this.writeFile(pathTo, xmd, volumeTo)\n    })\n  }\n\n  /**\n   * Get the short name (code) for a language\n   *\n   * @param  {string} lang - Languge name\n   * @return {string} - Short name of language\n   */\n  _shortname (lang) {\n    lang = lang.toLowerCase()\n    return {\n      javascript: 'js',\n      julia: 'jl',\n      python: 'py'\n    }[lang] || lang\n  }\n\n  /**\n   * Get the language comment character(s)\n   *\n   * @param  {string} lang - Languge name\n   * @return {string} - Single line comment character(s)\n   */\n  _comment (lang) {\n    return {\n      js: '//',\n      sql: '--'\n    }[this._shortname(lang)] || '#'\n  }\n}\n\nmodule.exports = DocumentXmdConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/document/DocumentXmdConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 105,
+    "kind": "class",
+    "name": "DocumentXmdConverter",
+    "memberof": "src/document/DocumentXmdConverter.js",
+    "static": true,
+    "longname": "src/document/DocumentXmdConverter.js~DocumentXmdConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/document/DocumentXmdConverter.js",
+    "importStyle": "DocumentXmdConverter",
+    "description": "A Document converter for XMarkdown.\n\nXMarkdown is our name for RMarkdown-like formats, that is, RMarkdown but extended to language\nX, where X includes Python, Javascript, etc.\n\nThis is a preliminary implementation and not all of the following conversions are enabled yet.\n\nIn RMarkdown, R code is embedded in \"code chunks\". There are two types of code chunks: inline and block.\nIn XMarkdown, we allow both inline and block chunks to be defined in various languages using\nour usual language labels e.g. ``r``, ``py``, ``js``.\n\nInline code chunks, equivalent to Stencila's output cells, are declared using Markdown code spans\nprefixed by the language label e.g.\n\nThe answer is `r x`\n\nBlock code chunks, equivalent to Stencila's code cells, are declared using Markdown fenced code blocks\nwith attributes prefixed by the language label and, optionally, a chunk label and other options e.g.\n\n```{r myplot, fig.width=6, fig.height=7}\nplot(x,y)\n```\n\nHere ``myplot`` is the chunk label and ```fig.width=6, fig.height=7``` are chunk options.\nA list of chunk options, recognised by the RMarkdown rendering enging, Knitr,\nis available at http://yihui.name/knitr/options/.",
+    "lineNumber": 35,
+    "interface": false,
+    "extends": [
+      "src/document/DocumentMdConverter.js~DocumentMdConverter"
+    ]
+  },
+  {
+    "__docId__": 106,
+    "kind": "method",
+    "name": "import",
+    "memberof": "src/document/DocumentXmdConverter.js~DocumentXmdConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentXmdConverter.js~DocumentXmdConverter#import",
+    "access": "public",
+    "description": null,
+    "lineNumber": 36,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 107,
+    "kind": "method",
+    "name": "export",
+    "memberof": "src/document/DocumentXmdConverter.js~DocumentXmdConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentXmdConverter.js~DocumentXmdConverter#export",
+    "access": "public",
+    "description": null,
+    "lineNumber": 91,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 108,
+    "kind": "method",
+    "name": "_shortname",
+    "memberof": "src/document/DocumentXmdConverter.js~DocumentXmdConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentXmdConverter.js~DocumentXmdConverter#_shortname",
+    "access": "private",
+    "description": "Get the short name (code) for a language",
+    "lineNumber": 130,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "lang",
+        "description": "Languge name"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "Short name of language"
+    }
+  },
+  {
+    "__docId__": 109,
+    "kind": "method",
+    "name": "_comment",
+    "memberof": "src/document/DocumentXmdConverter.js~DocumentXmdConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/document/DocumentXmdConverter.js~DocumentXmdConverter#_comment",
+    "access": "private",
+    "description": "Get the language comment character(s)",
+    "lineNumber": 145,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "lang",
+        "description": "Languge name"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "string"
+      ],
+      "spread": false,
+      "description": "Single line comment character(s)"
+    }
+  },
+  {
+    "__docId__": 110,
+    "kind": "file",
+    "name": "src/document/index.js",
+    "content": "const DocumentDocxConverter = require('./DocumentDocxConverter')\nconst DocumentHtmlConverter = require('./DocumentHtmlConverter')\nconst DocumentLatexConverter = require('./DocumentLatexConverter')\nconst DocumentMdConverter = require('./DocumentMdConverter')\nconst DocumentOdtConverter = require('./DocumentOdtConverter')\nconst DocumentJupyterConverter = require('./DocumentJupyterConverter')\nconst DocumentRmdConverter = require('./DocumentRmdConverter')\nconst DocumentPdfConverter = require('./DocumentPdfConverter')\n\nmodule.exports = {\n  DocumentDocxConverter,\n  DocumentHtmlConverter,\n  DocumentLatexConverter,\n  DocumentMdConverter,\n  DocumentOdtConverter,\n  DocumentJupyterConverter,\n  DocumentRmdConverter,\n  DocumentPdfConverter\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/document/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 111,
+    "kind": "file",
+    "name": "src/helpers/index.js",
+    "content": "const pandoc = require('./pandoc')\n\nmodule.exports = {\n  pandoc\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/helpers/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 112,
+    "kind": "file",
+    "name": "src/helpers/pandoc.js",
+    "content": "const BinWrapper = require('bin-wrapper')\nconst binVersionCheck = require('bin-version-check')\nconst fs = require('fs')\nconst path = require('path')\nconst childProcess = require('child_process')\n\nconst binary = require('./pandoc.json')\n\nconst pandoc = new BinWrapper()\n  // Semver requirement for Pandoc\n  .version(binary.version)\n  // Sources for downloaded binaries (if necessary)\n  .src(binary.linux, 'linux', 'x64')\n  .src(binary.macos, 'darwin')\n  .src(binary.windows, 'win32')\n  .dest((function () {\n    // Destination for downloaded binaries (if necessary)\n    switch (process.platform) {\n      case 'darwin':\n        return path.join(process.env.HOME, 'Library', 'Application Support', 'Stencila')\n      case 'linux':\n        return path.join(process.env.HOME, '.stencila')\n      case 'win32':\n        return path.join(process.env.APPDATA, 'Stencila')\n      default:\n        return path.join(process.env.HOME, 'stencila')\n    }\n  }()))\n  .use(process.platform === 'win32' ? 'pandoc.exe' : 'bin/pandoc')\n\nlet ready = false\n\npandoc.get = function () {\n  return new Promise((resolve, reject) => {\n    if (ready) resolve()\n    else {\n      // Check that an acceptable version of Pandoc is available on PATH\n      binVersionCheck('pandoc', pandoc.version()).then(() => {\n        // Use global Pandoc by setting `pandoc.path()` to 'pandoc'\n        // console.info('ℹ Global Pandoc is OK')\n        pandoc.dest('')\n        pandoc.use('pandoc')\n        ready = true\n        resolve()\n      }).catch(() => {\n        // Global pandoc is not available/acceptable, check local Pandoc\n        binVersionCheck(pandoc.path(), pandoc.version()).then(() => {\n          // console.info('ℹ Local Pandoc is OK: ' + pandoc.path())\n          ready = true\n          resolve()\n        }).catch(() => {\n          console.info('ℹ About to download Pandoc ' + binary.version + ' to: ' + pandoc.path())\n          fs.unlink(pandoc.path(), function () {\n            console.log('⧗ Downloading Pandoc (this could take some time).')\n            pandoc.run(['--version'], function (err) {\n              if (err) {\n                console.log('✗ Download fail :(')\n                reject(new Error())\n              } else {\n                console.log('✓ Download success!')\n                ready = true\n                resolve()\n              }\n            })\n          })\n        })\n      })\n    }\n  })\n}\n\npandoc.spawn = function (input, args) {\n  return pandoc.get().then(() => {\n    return new Promise((resolve, reject) => {\n      const child = childProcess.spawn(pandoc.path(), args)\n      let stdout = ''\n      child.stdout.on('data', (data) => {\n        stdout += data\n      })\n      child.stdout.on('end', () => {\n        resolve(stdout)\n      })\n      child.stderr.on('data', (data) => {\n        reject(new Error(data))\n      })\n      child.on('error', (err) => {\n        reject(err)\n      })\n      child.stdin.setEncoding('utf-8')\n      child.stdin.write(input)\n      child.stdin.end()\n    })\n  })\n}\n\nmodule.exports = pandoc\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/helpers/pandoc.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 113,
+    "kind": "variable",
+    "name": "ready",
+    "memberof": "src/helpers/pandoc.js",
+    "static": true,
+    "longname": "src/helpers/pandoc.js~ready",
+    "access": "public",
+    "export": false,
+    "importPath": "stencila-convert/src/helpers/pandoc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 31,
+    "undocument": true,
+    "type": {
+      "types": [
+        "boolean"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 114,
+    "kind": "function",
+    "name": "get",
+    "memberof": "src/helpers/pandoc.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/helpers/pandoc.js~get",
+    "access": "public",
+    "export": false,
+    "importPath": "stencila-convert/src/helpers/pandoc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 33,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 115,
+    "kind": "function",
+    "name": "spawn",
+    "memberof": "src/helpers/pandoc.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/helpers/pandoc.js~spawn",
+    "access": "public",
+    "export": false,
+    "importPath": "stencila-convert/src/helpers/pandoc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 72,
+    "undocument": true,
+    "params": [
+      {
+        "name": "input",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "args",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 116,
+    "kind": "variable",
+    "name": "pandoc",
+    "memberof": "src/helpers/pandoc.js",
+    "static": true,
+    "longname": "src/helpers/pandoc.js~pandoc",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/helpers/pandoc.js",
+    "importStyle": "pandoc",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 117,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "const projectConverters = require('./project')\nconst documentConverters = require('./document')\nconst sheetConverters = require('./sheet')\n\nlet converters = [].concat(\n  Object.values(projectConverters),\n  Object.values(documentConverters),\n  Object.values(sheetConverters)\n)\n\nfunction import_ (pathFrom, pathTo, volumeFrom, volumeTo) {\n  return Promise.resolve().then(() => {\n    function check (index = 0) {\n      const Converter = converters[index]\n      if (!Converter) throw new Error('No converters can import from ' + pathFrom)\n      let converter = new Converter()\n      return converter.canImport(pathFrom, volumeFrom).then((can) => {\n        return can ? converter.import(pathFrom, pathTo, volumeFrom, volumeTo) : check(index + 1)\n      })\n    }\n    return check()\n  })\n}\n\nfunction export_ (pathFrom, pathTo, volumeFrom, volumeTo) {\n  return Promise.resolve().then(() => {\n    function check (index = 0) {\n      const Converter = converters[index]\n      if (!Converter) throw new Error('No converters can export from ' + pathFrom)\n      let converter = new Converter()\n      return converter.canExport(pathTo, volumeTo).then((can) => {\n        return can ? converter.export(pathFrom, pathTo, volumeFrom, volumeTo) : check(index + 1)\n      })\n    }\n    return check()\n  })\n}\n\nfunction convert (pathFrom, pathTo, volumeFrom, volumeTo) {\n  return import_(pathFrom, null, volumeFrom, volumeTo).then((pathImportedTo, volumeImportedTo) => {\n    return export_(pathImportedTo, pathTo, volumeImportedTo, volumeTo)\n  })\n}\n\nmodule.exports = {\n  'import': import_,\n  'export': export_,\n  convert\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 118,
+    "kind": "variable",
+    "name": "converters",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~converters",
+    "access": "public",
+    "export": false,
+    "importPath": "stencila-convert",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 119,
+    "kind": "function",
+    "name": "import_",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~import_",
+    "access": "public",
+    "export": false,
+    "importPath": "stencila-convert",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 120,
+    "kind": "function",
+    "name": "export_",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~export_",
+    "access": "public",
+    "export": false,
+    "importPath": "stencila-convert",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 25,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 121,
+    "kind": "function",
+    "name": "convert",
+    "memberof": "src/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/index.js~convert",
+    "access": "public",
+    "export": false,
+    "importPath": "stencila-convert",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 39,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 122,
+    "kind": "file",
+    "name": "src/project/ProjectConverter.js",
+    "content": "const Converter = require('../Converter')\n\nconst documentConverters = require('../document')\nconst sheetConverters = require('../sheet')\n\nclass ProjectConverter extends Converter {\n  createDom () {\n    return this.loadXml(`\n      <!DOCTYPE sheet PUBLIC \"DarManifest 0.1.0\" \"http://darformat.org/DarManifest-0.1.0.dtd\">\n      <dar>\n        <documents></documents>\n        <assets></assets>\n      </dar>\n    `)\n  }\n\n  get converters () {\n    return [].concat(\n      Object.values(documentConverters),\n      Object.values(sheetConverters)\n    )\n  }\n}\n\nmodule.exports = ProjectConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/project/ProjectConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 123,
+    "kind": "class",
+    "name": "ProjectConverter",
+    "memberof": "src/project/ProjectConverter.js",
+    "static": true,
+    "longname": "src/project/ProjectConverter.js~ProjectConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/project/ProjectConverter.js",
+    "importStyle": "ProjectConverter",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/Converter.js~Converter"
+    ]
+  },
+  {
+    "__docId__": 124,
+    "kind": "method",
+    "name": "createDom",
+    "memberof": "src/project/ProjectConverter.js~ProjectConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/project/ProjectConverter.js~ProjectConverter#createDom",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 125,
+    "kind": "get",
+    "name": "converters",
+    "memberof": "src/project/ProjectConverter.js~ProjectConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/project/ProjectConverter.js~ProjectConverter#converters",
+    "access": "public",
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 126,
+    "kind": "file",
+    "name": "src/project/ProjectFolderConverter.js",
+    "content": "const fs = require('fs')\nconst glob = require('glob')\nconst path = require('path')\n\nconst ProjectConverter = require('./ProjectConverter')\n\n/**\n * Converts a folder (i.e. filesystem directory) into a\n * Stencila project.\n */\nclass ProjectFolderConverter extends ProjectConverter {\n  canImport (pathFrom, volumeFrom = fs) {\n    return new Promise((resolve, reject) => {\n      volumeFrom.lstat(pathFrom, (err, stats) => {\n        if (err) return reject(err)\n        else resolve(stats.isDirectory())\n      })\n    })\n  }\n\n  import (pathFrom, pathTo, volumeFrom = fs, volumeTo = null, options = {}) {\n    pathTo = pathTo || pathFrom\n    volumeTo = volumeTo || volumeFrom\n    options.include = options.include || '*'\n\n    return new Promise((resolve, reject) => {\n      // Get the list of files in the directory using the `include` and `exclude`\n      // glob options\n      glob(path.join(pathFrom, options.include), {\n        ignore: options.exclude\n      }, (err, files) => {\n        if (err) return reject(err)\n\n        // If a file can be imported then import it recording source and destination file paths\n        const converters = this.converters\n        const promises = []\n        function conversionPromise (filePathFrom, index = 0) {\n          const Converter = converters[index]\n          if (!Converter) return Promise.resolve({pathTo: null})\n          let converter = new Converter()\n          return converter.canImport(filePathFrom, volumeFrom).then((can) => {\n            if (!can) return conversionPromise(filePathFrom, index + 1)\n            else return converter.import(filePathFrom, null, volumeFrom, volumeTo)\n          })\n        }\n        for (let filePathFrom of files) promises.push(conversionPromise(filePathFrom))\n\n        // Create project manifest\n        Promise.all(promises).then(conversions => {\n          return this.createDom().then(manifest => {\n            let documents = manifest('documents')\n            for (let conversion of conversions) {\n              if (!conversion.pathTo) continue\n              const filePathTo = path.relative(pathFrom, conversion.pathTo)\n              const filePathFrom = path.relative(pathFrom, conversion.pathFrom)\n              const type = conversion.formatTo\n              const id = filePathFrom\n              const name = filePathFrom\n              documents.append(`<document id=\"${id}\" name=\"${name}\" type=\"${type}\" path=\"${filePathTo}\"/>`)\n            }\n            return this.writeXml(path.join(pathTo, 'manifest.xml'), manifest)\n          })\n        })\n      })\n    })\n  }\n}\n\nmodule.exports = ProjectFolderConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/project/ProjectFolderConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 127,
+    "kind": "class",
+    "name": "ProjectFolderConverter",
+    "memberof": "src/project/ProjectFolderConverter.js",
+    "static": true,
+    "longname": "src/project/ProjectFolderConverter.js~ProjectFolderConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/project/ProjectFolderConverter.js",
+    "importStyle": "ProjectFolderConverter",
+    "description": "Converts a folder (i.e. filesystem directory) into a\nStencila project.",
+    "lineNumber": 11,
+    "interface": false,
+    "extends": [
+      "src/project/ProjectConverter.js~ProjectConverter"
+    ]
+  },
+  {
+    "__docId__": 128,
+    "kind": "method",
+    "name": "canImport",
+    "memberof": "src/project/ProjectFolderConverter.js~ProjectFolderConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/project/ProjectFolderConverter.js~ProjectFolderConverter#canImport",
+    "access": "public",
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "fs",
+        "defaultValue": "fs"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 129,
+    "kind": "method",
+    "name": "import",
+    "memberof": "src/project/ProjectFolderConverter.js~ProjectFolderConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/project/ProjectFolderConverter.js~ProjectFolderConverter#import",
+    "access": "public",
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "fs",
+        "defaultValue": "fs"
+      },
+      {
+        "name": "volumeTo",
+        "optional": true,
+        "types": [
+          "undefined"
+        ],
+        "defaultValue": "undefined"
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 130,
+    "kind": "file",
+    "name": "src/project/index.js",
+    "content": "const ProjectFolderConverter = require('./ProjectFolderConverter')\n\nmodule.exports = {\n  ProjectFolderConverter\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/project/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 131,
+    "kind": "file",
+    "name": "src/sheet/SheetConverter.js",
+    "content": "const fs = require('fs')\nconst xlsx = require('xlsx')\n\nconst Converter = require('../Converter')\n\nclass SheetConverter extends Converter {\n  createDom () {\n    return this.loadXml(`\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE sheet PUBLIC \"Stencila Sheet 1.0\" \"http://stenci.la/Sheet-1.0.dtd\">\n<sheet>\n  <meta>\n    <name></name>\n    <title></title>\n    <description></description>\n    <columns></columns>\n  </meta>\n  <data></data>\n</sheet>\n    `)\n  }\n\n  import (pathFrom, pathTo, volumeFrom, volumeTo, options = {}) {\n    pathTo = pathTo || (pathFrom + '.sheet.xml')\n    volumeFrom = volumeFrom || fs\n    volumeTo = volumeTo || volumeFrom\n\n    return Promise.resolve().then(() => {\n      // The `xlsx` library seems to work best reading from file (rather than parsing data)\n      // so for now only support local files\n      if (volumeFrom !== fs) throw new Error('Only able to read from a local file system volume')\n      if (volumeTo !== fs) throw new Error('Only able to write to a local file system volume')\n\n      const workbook = xlsx.readFile(pathFrom)\n      const worksheet = workbook.Sheets[workbook.SheetNames[0]] // Currently, only importing first sheet\n\n      const cellRange = xlsx.utils.decode_range(worksheet['!ref'])\n      return this.createDom().then((dom) => {\n        const columns = dom('columns')\n        const data = dom('data')\n        for (let r = 0; r <= cellRange.e.r; r++) {\n          if (r === 0) {\n            for (let c = 0; c <= cellRange.e.c; c++) {\n              let column = dom('<col>')\n              if (options.header) {\n                const ref = xlsx.utils.encode_cell({r: r, c: c})\n                const header = worksheet[ref]\n                if (header) column.attr('name', header.v)\n              }\n              columns.append(column)\n            }\n            if (options.header) continue\n          }\n          const row = dom('<row>')\n          for (let c = 0; c <= cellRange.e.c; c++) {\n            const ref = xlsx.utils.encode_cell({r: r, c: c})\n            const cell = worksheet[ref]\n            if (cell) {\n              let cellEl = dom('<cell>')\n              if (cell.f) {\n                cellEl.attr('language', 'mini')\n                cellEl.text('=' + cell.f)\n              } else {\n                if (typeof cell.v === 'string') {\n                  let match = cell.v.match(/^(r|py|js)=(.*)/)\n                  if (match) {\n                    cellEl.attr('language', match[1])\n                    cellEl.text('=' + match[2])\n                  } else {\n                    cellEl.text(cell.v)\n                  }\n                } else {\n                  cellEl.text(cell.v)\n                }\n              }\n              row.append(cellEl)\n            }\n          }\n          data.append(row)\n        }\n\n        return this.writeXml(pathTo, dom, volumeTo, {\n          declaration: true,\n          tagsContentUnformatted: ['cell']\n        }).then(() => {\n          return { pathFrom, pathTo, formatTo: 'application/sheetml' }\n        })\n      })\n    })\n  }\n\n  export (pathFrom, pathTo, volumeFrom, volumeTo) {\n    volumeFrom = volumeFrom || fs\n    volumeTo = volumeTo || volumeFrom\n\n    return this.readXml(pathFrom).then((dom) => {\n      // The `xlsx` library seems to work best reading from file (rather than parsing data)\n      // so for now only support local files\n      if (volumeFrom !== fs) throw new Error('Only able to read from a local file system volume')\n      if (volumeTo !== fs) throw new Error('Only able to write to a local file system volume')\n\n      const cells = {}\n      const data = dom('data')\n      let end = {r: 0, c: 0}\n      data.find('row').each((r, elem) => {\n        let row = dom(elem)\n        row.find('cell').each((c, elem) => {\n          let cell = dom(elem)\n          const text = cell.text()\n          if (text) {\n            const ref = xlsx.utils.encode_cell({r: r, c: c})\n            cells[ref] = {\n              t: 's',\n              v: text\n            }\n            end = {r: r, c: c}\n          }\n        })\n      })\n      cells['!ref'] = xlsx.utils.encode_range({\n        s: {r: 0, c: 0},\n        e: end\n      })\n\n      const workbook = {\n        SheetNames: ['Sheet1'],\n        Sheets: {\n          Sheet1: cells\n        }\n      }\n\n      return new Promise((resolve, reject) => {\n        xlsx.writeFileAsync(pathTo, workbook, {\n          type: 'string'\n        }, (err) => {\n          err ? reject(err) : resolve(pathTo)\n        })\n      })\n    })\n  }\n}\n\nmodule.exports = SheetConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/sheet/SheetConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 132,
+    "kind": "class",
+    "name": "SheetConverter",
+    "memberof": "src/sheet/SheetConverter.js",
+    "static": true,
+    "longname": "src/sheet/SheetConverter.js~SheetConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/sheet/SheetConverter.js",
+    "importStyle": "SheetConverter",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/Converter.js~Converter"
+    ]
+  },
+  {
+    "__docId__": 133,
+    "kind": "method",
+    "name": "createDom",
+    "memberof": "src/sheet/SheetConverter.js~SheetConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/sheet/SheetConverter.js~SheetConverter#createDom",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 134,
+    "kind": "method",
+    "name": "import",
+    "memberof": "src/sheet/SheetConverter.js~SheetConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/sheet/SheetConverter.js~SheetConverter#import",
+    "access": "public",
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 135,
+    "kind": "method",
+    "name": "export",
+    "memberof": "src/sheet/SheetConverter.js~SheetConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/sheet/SheetConverter.js~SheetConverter#export",
+    "access": "public",
+    "description": null,
+    "lineNumber": 92,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 136,
+    "kind": "file",
+    "name": "src/sheet/SheetDSVConverter.js",
+    "content": "const SheetConverter = require('./SheetConverter')\n\n/**\n * Converter to import/export a Sheet from/to a delimiter separated values (DSV) file\n *\n * @description\n *\n * There are several dialects of [DSV](https://en.wikipedia.org/wiki/Delimiter-separated_values)\n * the best known of which is CSV (comma separated values).\n *\n * Converts to/from Stencila's internal XML buffer format for Sheets\n */\nclass SheetDSVConverter extends SheetConverter {\n  canImport (pathFrom) {\n    return this.matchExtensions(pathFrom, ['csv', 'tsv'])\n  }\n\n  import (pathFrom, pathTo, volumeFrom, volumeTo, options = {}) {\n    if (options.header !== false) options.header = true\n    return super.import(pathFrom, pathTo, volumeFrom, volumeTo, options)\n  }\n}\n\nmodule.exports = SheetDSVConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/sheet/SheetDSVConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 137,
+    "kind": "class",
+    "name": "SheetDSVConverter",
+    "memberof": "src/sheet/SheetDSVConverter.js",
+    "static": true,
+    "longname": "src/sheet/SheetDSVConverter.js~SheetDSVConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/sheet/SheetDSVConverter.js",
+    "importStyle": "SheetDSVConverter",
+    "description": "Converter to import/export a Sheet from/to a delimiter separated values (DSV) file",
+    "lineNumber": 13,
+    "unknown": [
+      {
+        "tagName": "@description",
+        "tagValue": "\nThere are several dialects of [DSV](https://en.wikipedia.org/wiki/Delimiter-separated_values)\nthe best known of which is CSV (comma separated values).\n\nConverts to/from Stencila's internal XML buffer format for Sheets"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "src/sheet/SheetConverter.js~SheetConverter"
+    ]
+  },
+  {
+    "__docId__": 138,
+    "kind": "method",
+    "name": "canImport",
+    "memberof": "src/sheet/SheetDSVConverter.js~SheetDSVConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/sheet/SheetDSVConverter.js~SheetDSVConverter#canImport",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 139,
+    "kind": "method",
+    "name": "import",
+    "memberof": "src/sheet/SheetDSVConverter.js~SheetDSVConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/sheet/SheetDSVConverter.js~SheetDSVConverter#import",
+    "access": "public",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "pathTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeFrom",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "volumeTo",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 140,
+    "kind": "file",
+    "name": "src/sheet/SheetODSConverter.js",
+    "content": "const SheetConverter = require('./SheetConverter')\n\n/**\n * Converter to import/export a Sheet from/to an Open Document Spreadsheet (ODS) file\n *\n */\nclass SheetODSConverter extends SheetConverter {\n  canImport (pathFrom) {\n    return this.matchExtensions(pathFrom, ['ods'])\n  }\n}\n\nmodule.exports = SheetODSConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/sheet/SheetODSConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 141,
+    "kind": "class",
+    "name": "SheetODSConverter",
+    "memberof": "src/sheet/SheetODSConverter.js",
+    "static": true,
+    "longname": "src/sheet/SheetODSConverter.js~SheetODSConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/sheet/SheetODSConverter.js",
+    "importStyle": "SheetODSConverter",
+    "description": "Converter to import/export a Sheet from/to an Open Document Spreadsheet (ODS) file",
+    "lineNumber": 7,
+    "interface": false,
+    "extends": [
+      "src/sheet/SheetConverter.js~SheetConverter"
+    ]
+  },
+  {
+    "__docId__": 142,
+    "kind": "method",
+    "name": "canImport",
+    "memberof": "src/sheet/SheetODSConverter.js~SheetODSConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/sheet/SheetODSConverter.js~SheetODSConverter#canImport",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 143,
+    "kind": "file",
+    "name": "src/sheet/SheetScriptConverter.js",
+    "content": "const fs = require('fs')\nconst path = require('path')\n\nconst SheetConverter = require('./SheetConverter')\n\nclass SheetScriptConverter extends SheetConverter {\n  import (from, to, fromFs = fs, toFs = null, options = {}) {\n    toFs = toFs || fromFs\n\n    return this.readFile(fromFs, from, 'utf8').then((content) => {\n      const main = path.join(to, 'index.sheet.xml')\n      return this.write(toFs, main, '').then(() => {\n        return main\n      })\n    })\n  }\n\n  export (from, to, fromFs = fs, toFs = null, options = {}) {\n    toFs = toFs || fromFs\n\n    return this.readFile(fromFs, path.join(from, 'index.sheet.xml'), 'utf8').then((xml) => {\n      const sheet = this.loadXml(xml)\n      const sheetData = sheet('sheet data')\n\n      let script = ''\n      sheetData.find('cell').each((index, elem) => {\n        const cell = sheet(elem)\n        script += cell.text() + '\\n'\n      })\n\n      const main = to\n      return this.writeFile(toFs, main, script).then(() => {\n        return main\n      })\n    })\n  }\n}\n\nmodule.exports = SheetScriptConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/sheet/SheetScriptConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 144,
+    "kind": "class",
+    "name": "SheetScriptConverter",
+    "memberof": "src/sheet/SheetScriptConverter.js",
+    "static": true,
+    "longname": "src/sheet/SheetScriptConverter.js~SheetScriptConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/sheet/SheetScriptConverter.js",
+    "importStyle": "SheetScriptConverter",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/sheet/SheetConverter.js~SheetConverter"
+    ]
+  },
+  {
+    "__docId__": 145,
+    "kind": "method",
+    "name": "import",
+    "memberof": "src/sheet/SheetScriptConverter.js~SheetScriptConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/sheet/SheetScriptConverter.js~SheetScriptConverter#import",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "params": [
+      {
+        "name": "from",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "to",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "fromFs",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "fs",
+        "defaultValue": "fs"
+      },
+      {
+        "name": "toFs",
+        "optional": true,
+        "types": [
+          "undefined"
+        ],
+        "defaultValue": "undefined"
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 146,
+    "kind": "method",
+    "name": "export",
+    "memberof": "src/sheet/SheetScriptConverter.js~SheetScriptConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/sheet/SheetScriptConverter.js~SheetScriptConverter#export",
+    "access": "public",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "params": [
+      {
+        "name": "from",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "to",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "fromFs",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "fs",
+        "defaultValue": "fs"
+      },
+      {
+        "name": "toFs",
+        "optional": true,
+        "types": [
+          "undefined"
+        ],
+        "defaultValue": "undefined"
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 147,
+    "kind": "file",
+    "name": "src/sheet/SheetTDPConverter.js",
+    "content": "const SheetDSVConverter = require('./SheetDSVConverter')\n\n/**\n * Converter to import/export a Sheet from/to Tabular Data Package (TDP)\n *\n * @description\n *\n * The [TDP specification](https://specs.frictionlessdata.io/tabular-data-package/)\n * is a [Data Package](https://specs.frictionlessdata.io/data-package/) (represented by a\n * `datapackage.json` file) that has:\n *\n *  - at least one resource in the resources array\n *  - each resource must be a (Tabular Data Resource)[https://specs.frictionlessdata.io/tabular-data-resource/] (TDR)\n *\n * This converter converts a *single* TDR from a TDP's `datapackage.json`. The TDR can be either:\n *\n * - inline \"JSON tabular data\" that is array of data rows where each row is an array or object\"\n * - a CSV file\n */\nclass SheetTDPConverter extends SheetDSVConverter {\n  /**\n   * @override\n   */\n  match (path, storer) {\n    let {dir, file, ext} = this._parsePath(path)\n\n    // Is this a `datapackage.json`?\n    if (file === 'datapackage.json') return Promise.resolve(true)\n\n    // Is this a CSV file with a sibling `datapackage.json`?\n    if (ext === 'csv') {\n      return storer.readDir(dir).then(files => {\n        for (let file of files) {\n          if (file === 'datapackage.json') return true\n        }\n        return false\n      })\n    }\n\n    // No match\n    return Promise.resolve(false)\n  }\n\n  /**\n   * @override\n   */\n  import (path, storer, buffer) {\n    let {dir, file} = this._parsePath(path)\n    let {$sheet, $$} = this._importCreateElement()\n\n    let datapackageFile = (dir ? (dir + '/') : '') + 'datapackage.json'\n    return storer.readFile(datapackageFile).then(data => {\n      let pkg = JSON.parse(data)\n\n      // Get the resource for the imported file\n      let resource\n      if (file === 'datapackage.json') {\n        // Currently use the first resource. In the future, the user\n        // may be able to specify this\n        resource = pkg.resources[0]\n      } else {\n        // Search for the imported file among resources\n        for (let candidate of pkg.resources) {\n          if (file === candidate.path) {\n            resource = candidate\n            break\n          }\n        }\n      }\n\n      // The <name> element is required\n      $sheet.append($$('name').text(resource.name || resource.path || 'unnamed'))\n\n      // The <fields> element is required\n      let fieldsEl = $$('fields')\n      $sheet.append(fieldsEl)\n      if (resource.schema) {\n        for (let field of resource.schema.fields) {\n          let el = $$('field').attr({\n            name: field.name || '',\n            title: field.title || '',\n            description: field.description || '',\n            type: field.type || '',\n            format: field.format || '',\n            rdfType: field.rdfType || ''\n          })\n          fieldsEl.append(el)\n        }\n      }\n\n      // Read in values\n      let csvFile = (dir ? (dir + '/') : '') + 'data.csv'\n      return this._importReadData(csvFile, storer).then(data => {\n        $sheet.append(\n          this._importValuesFromData(data, $$)\n        )\n        return this._importWriteBuffer($sheet, buffer)\n      })\n    })\n  }\n\n  /**\n   * @override\n   */\n  export (path, storer, buffer) { // eslint-disable-line\n    throw new Error('SheetTDPConverter.export() not yet implemented')\n  }\n}\n\nmodule.exports = SheetTDPConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/sheet/SheetTDPConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 148,
+    "kind": "class",
+    "name": "SheetTDPConverter",
+    "memberof": "src/sheet/SheetTDPConverter.js",
+    "static": true,
+    "longname": "src/sheet/SheetTDPConverter.js~SheetTDPConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/sheet/SheetTDPConverter.js",
+    "importStyle": "SheetTDPConverter",
+    "description": "Converter to import/export a Sheet from/to Tabular Data Package (TDP)",
+    "lineNumber": 20,
+    "unknown": [
+      {
+        "tagName": "@description",
+        "tagValue": "\nThe [TDP specification](https://specs.frictionlessdata.io/tabular-data-package/)\nis a [Data Package](https://specs.frictionlessdata.io/data-package/) (represented by a\n`datapackage.json` file) that has:\n\n - at least one resource in the resources array\n - each resource must be a (Tabular Data Resource)[https://specs.frictionlessdata.io/tabular-data-resource/] (TDR)\n\nThis converter converts a *single* TDR from a TDP's `datapackage.json`. The TDR can be either:\n\n- inline \"JSON tabular data\" that is array of data rows where each row is an array or object\"\n- a CSV file"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "src/sheet/SheetDSVConverter.js~SheetDSVConverter"
+    ]
+  },
+  {
+    "__docId__": 149,
+    "kind": "method",
+    "name": "match",
+    "memberof": "src/sheet/SheetTDPConverter.js~SheetTDPConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/sheet/SheetTDPConverter.js~SheetTDPConverter#match",
+    "access": "public",
+    "description": "",
+    "lineNumber": 24,
+    "override": true,
+    "params": [
+      {
+        "name": "path",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "storer",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 150,
+    "kind": "method",
+    "name": "import",
+    "memberof": "src/sheet/SheetTDPConverter.js~SheetTDPConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/sheet/SheetTDPConverter.js~SheetTDPConverter#import",
+    "access": "public",
+    "description": "",
+    "lineNumber": 47,
+    "override": true,
+    "params": [
+      {
+        "name": "path",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "storer",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "buffer",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 151,
+    "kind": "method",
+    "name": "export",
+    "memberof": "src/sheet/SheetTDPConverter.js~SheetTDPConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/sheet/SheetTDPConverter.js~SheetTDPConverter#export",
+    "access": "public",
+    "description": "",
+    "lineNumber": 105,
+    "override": true,
+    "params": [
+      {
+        "name": "path",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "storer",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "buffer",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 152,
+    "kind": "file",
+    "name": "src/sheet/SheetXLSXConverter.js",
+    "content": "const SheetConverter = require('./SheetConverter')\n\n/**\n * Converter to import/export a Sheet from/to an XSLX files\n *\n */\nclass SheetXLSXConverter extends SheetConverter {\n  canImport (pathFrom) {\n    return this.matchExtensions(pathFrom, ['xlsx'])\n  }\n}\n\nmodule.exports = SheetXLSXConverter\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/sheet/SheetXLSXConverter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 153,
+    "kind": "class",
+    "name": "SheetXLSXConverter",
+    "memberof": "src/sheet/SheetXLSXConverter.js",
+    "static": true,
+    "longname": "src/sheet/SheetXLSXConverter.js~SheetXLSXConverter",
+    "access": "public",
+    "export": true,
+    "importPath": "stencila-convert/src/sheet/SheetXLSXConverter.js",
+    "importStyle": "SheetXLSXConverter",
+    "description": "Converter to import/export a Sheet from/to an XSLX files",
+    "lineNumber": 7,
+    "interface": false,
+    "extends": [
+      "src/sheet/SheetConverter.js~SheetConverter"
+    ]
+  },
+  {
+    "__docId__": 154,
+    "kind": "method",
+    "name": "canImport",
+    "memberof": "src/sheet/SheetXLSXConverter.js~SheetXLSXConverter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/sheet/SheetXLSXConverter.js~SheetXLSXConverter#canImport",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pathFrom",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 155,
+    "kind": "file",
+    "name": "src/sheet/index.js",
+    "content": "const SheetDSVConverter = require('./SheetDSVConverter')\nconst SheetODSConverter = require('./SheetODSConverter')\n\nmodule.exports = {\n  SheetDSVConverter,\n  SheetODSConverter\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/stencila/convert/src/sheet/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "kind": "index",
+    "content": "## `stencila/convert` : Stencila converters\n\n![Experimental](https://img.shields.io/badge/stability-experimental-orange.svg)\n[![NPM](http://img.shields.io/npm/v/stencila-convert.svg?style=flat)](https://www.npmjs.com/package/stencila-convert)\n[![Build status](https://travis-ci.org/stencila/convert.svg?branch=master)](https://travis-ci.org/stencila/convert)\n[![Build status](https://ci.appveyor.com/api/projects/status/f1hx694pxm0fyqni?svg=true)](https://ci.appveyor.com/project/nokome/convert)\n[![Code coverage](https://codecov.io/gh/stencila/convert/branch/master/graph/badge.svg)](https://codecov.io/gh/stencila/convert)\n[![Dependency status](https://david-dm.org/stencila/convert.svg)](https://david-dm.org/stencila/convert)\n[![Community](https://img.shields.io/badge/join-community-green.svg)](https://community.stenci.la)\n[![Chat](https://badges.gitter.im/stencila/stencila.svg)](https://gitter.im/stencila/stencila)\n\n### Use\n\nThis package is integrated into the Stencila command line tool [`stencila/cli`](https://github.com/stencila/cli). That's the most convenient way to use converters e.g.\n\n```bash\nstencila convert document.md document.jats\n```\n\nBut you can also use this package directly e.g.\n\n```bash\nnpm install stencila-convert -g\nstencila-convert import document.md document.jats.xml\n```\n\nMany of the `Document` converters rely on a recent version of Pandoc. This package will use an existing installation of Pandoc if it is new enough. If not, it will automatically download the required Pandoc version to the Stencila directory in your home folder. See [`pandoc.json`](src/helpers/pandoc.json) for the necessary Pandoc version and download URLs. At times it may be necessary to use our custom Pandoc build available at https://github.com/stencila/pandoc/releases.\n\nAPI documentation is available at https://stencila.github.io/convert.\n\n\n### Status\n\nThe following table lists the status of converters that have been developed, are in development, or are being considered for development. We'll be developing converters based on demand from users. So if you'd like to see a converter for your favorite format, +1 the relevant issue, or create an issue if there isn't one yet. Or, send us a pull request!\n\nFormat          | Import                                                           | Export\n--------------- | :--------------------------------------------------------------: | :--------------------------------------------------------------:\n**Documents**   |                                                                  |\nMarkdown        |![alpha](https://img.shields.io/badge/status-alpha-red.svg)       |![alpha](https://img.shields.io/badge/status-alpha-red.svg)\nRMarkdown       |![alpha](https://img.shields.io/badge/status-alpha-red.svg)       |\nLatex           |![alpha](https://img.shields.io/badge/status-alpha-red.svg)       |![alpha](https://img.shields.io/badge/status-alpha-red.svg)\nJupyter Notebook|![alpha](https://img.shields.io/badge/status-alpha-red.svg)       |\nHTML            |![alpha](https://img.shields.io/badge/status-alpha-red.svg)       |![alpha](https://img.shields.io/badge/status-alpha-red.svg)\nPDF             |-                                                                 |![alpha](https://img.shields.io/badge/status-alpha-red.svg)\n**Sheets**      |                                                                  |\nCSV             |![alpha](https://img.shields.io/badge/status-alpha-red.svg)       |![alpha](https://img.shields.io/badge/status-alpha-red.svg)\nCSVY            |                                                                  |\nTabular Data Package |                                                             |\nExcel `.xlsx`   |![alpha](https://img.shields.io/badge/status-alpha-red.svg)       |![alpha](https://img.shields.io/badge/status-alpha-red.svg)\nOpen Document Spreadsheet `.ods`|![alpha](https://img.shields.io/badge/status-alpha-red.svg)|![alpha](https://img.shields.io/badge/status-alpha-red.svg)\n\n\n### Develop\n\n1. Clone the repo\n\n    ```bash\n    git clone https://github.com/stencila/convert.git\n    ```\n\n2. Install dependencies\n\n    ```bash\n    npm install\n    ```\n\n#### Testing\n\nRun the test suite:\n\n```bash\nnpm test # or make test\n```\n\nOr, run a single test file:\n\nRun the test suite:\n\n```bash\nnpm run test-one -- tests/document/DocumentJupyterConverter.test.js\n```\n\nTo get coverage statistics:\n\n```bash\nnpm run cover # or make cover\n```\n\nOr, manually test conversion using the bin script:\n\n```bash\n./bin/stencila-convert.js tests/document/fixtures/paragraph/md/paragraph.md temp.pdf\n```\n\nYou can also test using Docker (e.g. so you can test under Linux):\n\n```bash\ndocker build --tag stencila/convert .\ndocker run stencila/convert\n```\n",
+    "longname": "/home/travis/build/stencila/convert/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"stencila-convert\",\n  \"version\": \"0.29.3\",\n  \"description\": \"Converters for Stencila components\",\n  \"main\": \"src/index.js\",\n  \"bin\": \"./bin/stencila-convert.js\",\n  \"scripts\": {\n    \"postinstall\": \"node src/helpers\",\n    \"lint\": \"standard\",\n    \"test\": \"tape \\\"tests/**/*.test.js\\\" | tap-spec\",\n    \"test-one\": \"tape\",\n    \"test-diffs\": \"npm test | tap-difflet\",\n    \"cover\": \"nyc --reporter=lcov --reporter=text npm test\",\n    \"docs\": \"esdoc\",\n    \"prepublishOnly\": \"npm run lint && npm run test && npm run docs\",\n    \"clean\": \"rimraf .nyc_output docs && rimraf tests/**/*-out.*\"\n  },\n  \"license\": \"Apache-2.0\",\n  \"homepage\": \"https://github.com/stencila/convert#readme\",\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://github.com/stencila/convert.git\"\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/stencila/convert/issues\"\n  },\n  \"dependencies\": {\n    \"bin-version-check\": \"^3.0.0\",\n    \"bin-wrapper\": \"^3.0.2\",\n    \"cheerio\": \"^1.0.0-rc.2\",\n    \"doctrine\": \"^2.0.0\",\n    \"glob\": \"^7.1.2\",\n    \"js-beautify\": \"^1.7.4\",\n    \"js-yaml\": \"^3.10.0\",\n    \"memfs\": \"^2.5.8\",\n    \"mkdirp\": \"^0.5.1\",\n    \"xlsx\": \"^0.11.13\",\n    \"yaml-front-matter\": \"^3.4.0\"\n  },\n  \"devDependencies\": {\n    \"esdoc\": \"^1.0.4\",\n    \"esdoc-node\": \"^1.0.3\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"nyc\": \"^11.6.0\",\n    \"rimraf\": \"^2.6.2\",\n    \"standard\": \"^10.0.3\",\n    \"tap-difflet\": \"^0.7.0\",\n    \"tap-spec\": \"^4.1.1\",\n    \"tape\": \"^4.8.0\",\n    \"tmp\": \"0.0.33\"\n  },\n  \"esdoc\": {\n    \"source\": \"./src\",\n    \"destination\": \"./docs\",\n    \"plugins\": [\n      {\n        \"name\": \"esdoc-standard-plugin\"\n      },\n      {\n        \"name\": \"esdoc-node\"\n      }\n    ]\n  },\n  \"nyc\": {\n    \"exclude\": [\n      \"tests\"\n    ]\n  }\n}\n",
+    "longname": "/home/travis/build/stencila/convert/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
